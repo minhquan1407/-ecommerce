@@ -1,0 +1,776 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#minh{
+    background: #FFFFFF; 
+    top: 0%;  
+} 
+ .quan{
+     background: #FFFFFF;
+     width: 1360px;
+     height: 106px;
+     position: fixed;
+     margin-top: -134px;
+} 
+.translatee{
+    position: fixed;
+    z-index: 999999;
+    margin-top: -205px;
+}
+ .menutora{
+    transform: translateY(-100%);
+    transition: 1s;
+} 
+.row:hover{
+    cursor: pointer;
+}
+.ffq{
+    font-size: 16px;
+}
+.ffk{
+    font-size: 16px;
+}
+.ffz{
+    font-size: 16px;
+}
+.logo{
+    margin-left: 50px;
+    margin-top: -10px;
+}
+ input[type=text] {   
+    height: 40px !important;
+     background: #fff; 
+    padding: 0 20px !important;
+    margin-top: 30px !important; 
+    margin-left: 35px !important;
+    width: 370px;
+    border: 1px solid #CCCCCC;
+}
+.iconn{
+    margin-left: -30px;
+    margin-top: 35px;
+    font-size: 22px;
+    color: red;
+}
+.ds{
+      
+      border: 1px solid #CCCCCC;
+      border-radius: 5px;
+      height: 60px;
+      width: 150px;
+      margin-top: 19px;
+      margin-left: 50px;  
+}
+.tt{
+    position: absolute;
+}
+.tt a{
+    text-decoration: none;
+    color: #000;;
+}
+.tt a:hover{
+    color: red;
+}
+.tt{
+    font-size: 15px;
+    margin-top: 6px;
+    margin-left: 25px;
+}
+.phone{
+    background: white;
+    border: 1px solid #CCCCCC;
+     width: 38px;
+     height: 38px;
+     border-radius: 22px;
+     margin-left: -172px;
+     margin-top: 30px;
+}
+.ti-vector{
+    margin-left: -28px;
+    margin-top: 40px;
+    color: red;
+}
+.signin{
+   
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    width: 180px;
+    height: 60px;
+    margin-left: 185px;
+    margin-top: 18px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.signup{
+    margin-top: 15px;
+    margin-bottom: 1rem;
+}
+.signup a{
+  color: black;
+  text-decoration: none;
+}
+.sign-a:hover{
+    color: red;
+}
+.sign-b:hover{
+    color: red;
+}
+.vuive{
+    margin-top: 15px;
+    margin-bottom: 1rem;
+    font-size: 16px;
+}
+p{
+    margin-top: 20px;
+    margin-left: 10px;
+} 
+
+.ti-user{
+    margin-left: 156px;
+    margin-top: -28px;
+    float: left;
+    color: red;
+}
+.cart{
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    width: 150px;
+    height: 60px;
+    margin-top: 18px;
+    margin-left: 37px; 
+    cursor: pointer;
+}
+.ti-shopping-cart-full{
+    float: left;
+    margin-left: 119px;
+    margin-top: -30px;
+    color: red;
+}
+.minhquan{
+    position: fixed;
+    margin-top: 130px;
+}
+.tong{
+    position: relative;
+    z-index: 9999;
+}
+.crou{
+    position: absolute !important;
+}
+
+.socke{
+    position: fixed;
+    
+}
+.ba{
+    background: #DDDDDD;
+    height: 48px;
+    width: 1360px;
+    margin-top: -28px;
+}
+.menuu{
+    background: #FFCC33;
+    height: 48px;
+    width: 230px;
+    margin-left: 72px;
+}
+.ti-align-justify{
+  margin-top: 15px;  
+  margin-left: 10px; 
+  font-size: 16px;
+}
+.barr{
+    margin-left: 15px;
+    margin-top: 13px;
+    font-size: 16px;
+}
+.camket{
+    margin-left: 40px;
+    margin-top: 2px;
+    cursor: pointer;
+}
+.giatot{
+    margin-left: 45px;
+    margin-top: -45px;
+    cursor: pointer;
+}
+.giatot:hover{
+   color: red;
+}
+.newBigtext{
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 4px;
+    font-family: 'Roboto Condensed 2', sans-serif;
+    
+}
+.newBigtextt{
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 4px;
+    font-family: 'Roboto Condensed 2', sans-serif;
+}
+.giatot p{
+    margin: 0;
+    padding-bottom: 0;
+}
+.new{
+    font-size: 15px;
+    text-decoration: none;
+    color: #000;
+    margin-top: 3px;
+}
+.new:hover{
+    color: red;
+    text-decoration: none;
+}
+.mienphi{
+    margin-left: 40px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.vanchuyen{
+    margin-left: 50px;
+    margin-top: -49px;
+    cursor: pointer;
+}
+.vanchuyen p{
+    margin: 2px;
+    padding-bottom: 0;
+}
+.nhanhang p{
+    margin: 2px;
+    padding-bottom: 0;
+}
+.tradoi p{
+    margin: 2px;
+    padding-bottom: 0;
+}
+.tnsd p{
+    margin: 2px;
+    padding-bottom: 0;
+}
+.newe{
+    font-size: 15px;
+    text-decoration: none;
+    color: #000;
+    margin-left: -1px;
+    
+}
+.newee{
+    font-size: 15px;
+    text-decoration: none;
+    color: #000;
+    margin-left: 1px;
+}
+.vanchuyen:hover{
+     color: red;
+}
+.newe:hover{
+    color: red;
+    text-decoration: none;
+}
+.newee:hover{
+    color: red;
+    text-decoration: none;
+}
+.thanhtoan{
+    margin-left: 40px;
+    margin-top: 4px;
+    cursor: pointer;
+}
+.nhanhang:hover{
+    color: red;
+}
+.nhanhang{
+    margin-left: 47px;
+    margin-top: -47px;
+}
+.doihang{
+    margin-left: 40px;
+    margin-top: 4px;
+    cursor: pointer;
+}
+.tradoi:hover{
+    color: red;
+}
+.tradoi{
+    margin-left: 45px;
+    margin-top: -50px;
+    cursor: pointer;
+}
+.baohanh{
+    margin-left: 40px;
+    margin-top: 4px;
+    cursor: pointer;
+}
+.tnsd{
+    margin-left: 50px;                                                                                                                                                                                               
+    margin-top: -45px;
+    cursor: pointer;
+}
+.tnsd:hover{
+    color: red;
+}
+html {
+    color: #333;
+    font-size: 62.5%;
+    font-family: 'Open Sans', sans-serif;
+}
+.main {
+    background: white;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 204px;;
+}
+.form {
+    width: 360px;
+    min-height: 100px;
+    padding: 32px 24px;
+    text-align: center;
+    background: #fff;
+    border-radius: 2px;
+    margin: 24px;
+    align-self: center;
+    box-shadow: 0 2px 5px 0 rgba(51,62,73,.1);
+    margin-top: -107px;
+}
+.form .heading {
+    font-size: 2rem;
+}
+.form .desc {
+    text-align: center;
+    color: #636d77;
+    font-size: 1.6rem;
+    font-weight: lighter;
+    line-height: 2.4rem;
+    margin-top: 16px;
+    font-weight: 300;
+}
+
+.form-group {
+    display: flex;
+    margin-bottom: 16px;
+    flex-direction: column;
+}
+
+.form-label,
+.form-message {
+    text-align: left;
+}
+
+.form-label {
+    font-weight: 700;
+    padding-bottom: 6px;
+    line-height: 1.8rem;
+    font-size: 1.4rem;
+}
+
+.form-control {
+    height: 100px;
+    padding: 8px 12px;
+    border: 1px solid #b3b3b3;
+    border-radius: 3px;
+    outline: none;
+    font-size: 1.4rem;
+}
+#fullname{
+  height: calc(2.5em + .75rem + 2px);
+  font-size: 12px;
+}
+#email{
+  height: calc(2.5em + .75rem + 2px);
+  font-size: 12px;
+}
+#password{
+  height: calc(2.5em + .75rem + 2px);
+  font-size: 12px;
+}
+#password_confirmation{
+  height: calc(2.5em + .75rem + 2px);
+  font-size: 12px;
+}
+.form-control:hover {
+    border-color: #1dbfaf;
+}
+
+.form-group.invalid .form-control {
+    border-color: #f33a58;
+}
+
+.form-group.invalid .form-message {
+    color: #f33a58;
+}
+
+.form-message {
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    padding: 4px 0 0;
+}
+
+.form-submit {
+    outline: none;
+    background-color: #1dbfaf;
+    margin-top: 12px;
+    padding: 12px 16px;
+    font-weight: 600;
+    color: #fff;
+    border: none;
+    width: 100%;
+    font-size: 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-left: 2px;
+}
+.form-submitt {
+    outline: none;
+    background-color: #1dbfaf;
+    margin-top: 12px;
+    padding: 12px 16px;
+    font-weight: 600;
+    color: #fff;
+    border: none;
+    width: 100%;
+    font-size: 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-left: 2px;
+}
+
+.form-submit:hover {
+    background-color: #1ac7b6;
+}
+
+.spacer {
+    margin-top: 36px;
+}
+.passw{
+    margin-left: -10px;
+}
+.kn{
+    font-weight: 600;
+    margin-left: 79px;
+    margin-top: -121px;
+    font-size: 18px;
+}
+.fb{
+  margin-left: 62px;
+
+}
+.gg{
+   margin-left: -17px;
+}
+.g{
+    margin-top: 10px;
+}
+.icon{
+  margin-top: -5px;
+}
+.yttb{
+margin-left: 0px;
+}
+.zalo{
+  margin-left: 5px;
+}
+.fbb:hover{
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
+.g:hover{
+transform: translateY(-5px);
+  transition: 0.3s;
+}
+.zaloo:hover{
+transform: translateY(-5px);
+  transition: 0.3s;
+}
+.ytbb:hover{
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
+.ttn{
+  font-weight: 600;
+    font-size: 18px;
+    margin-left: 448px;
+    margin-top: -118px;
+}
+.top{
+  background: #EEEEEE;
+    width: 1343px;
+    height: 150px;
+    margin-top: -206px;
+}
+.visa{
+  margin-left: 447px;
+    margin-top: 22px;
+}
+.mcard{
+      margin-left: 503px;
+    margin-top: -44px;
+}
+.jcb{
+  margin-left: 559px;
+    margin-top: -36px;
+}
+.icb{
+  border-radius: 5px;
+}
+.bank{
+      margin-left: 603px;
+    margin-top: -36px;
+}
+.nhapma{
+      font-weight: 600;
+    font-size: 17px;
+    margin-left: 812px;
+    margin-top: -93px;
+}
+.email{
+  margin-left: 778px;
+  margin-top: -5px;
+
+}
+#mail{
+  border-radius: 10px;
+  position: absolute;
+}
+#s1{
+  width: 245px;
+  height: 204px;
+}
+#s2{
+  margin-left: 300px;
+  width: 260px;
+  height: 204px;
+}
+#s3{
+  margin-left: 600px;
+  margin-top: -204px;
+  width: 260px;
+  height: 204px;
+}
+#s4{
+  margin-left: 900px;
+  margin-top: -204px;
+  width: 260px;
+  height: 204px;
+}
+.send{
+  background: #ffe401;
+    width: 77px;
+    height: 38px;
+    margin-left: 1135px;
+    margin-top: 31px;
+    position: relative;
+    z-index: 10;
+    border-radius: 0px 10px 10px 0px;
+}
+.sendd{
+  margin-left: 1160px;
+  margin-top: -32px !important;
+  font-weight: 500;
+  font-size: 16px;;
+  position: relative;
+  z-index: 11;
+
+}
+.foter-main{
+  background: #666666 ;
+    width: 1342px;
+    height: 1px;
+    margin-top: 41px;
+    margin-left: 1px;
+}
+.csgh{
+ background: white;
+ width: 1342px;
+ height: 144px;
+}
+.gh{
+  margin-left: 48px;
+  margin-top: 40px;
+}
+.dtrhang{
+       margin-top: 47px;
+    margin-left: 36px;
+}
+.tttienloi{
+  margin-left: 48px;
+  margin-top: 40px;
+}
+.hotro{
+  margin-left: 48px;
+  margin-top: 40px;
+}
+.foter-bot{
+  background: #666666 ;
+    width: 1342px;
+    height: 1px;
+    margin-top: 1px;
+    margin-left: 1px;
+}
+.foter-reles{
+  background: #EEEEEE;
+  width: 1342px;
+  height: 300px;
+}
+
+.htk{
+  font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-top: -282px;
+    margin-left: 60px;
+}
+.uutien li a{
+  text-decoration: none;
+  margin-left: 60px;
+  color: black;
+  font-size: 14px;
+}
+.a1:hover{
+  color: #00CCFF;
+}
+.a2:hover{
+  color: #00CCFF;
+}
+.a3:hover{
+  color: #00CCFF;
+}
+.a4:hover{
+  color: #00CCFF;
+}
+.a5:hover{
+  color: #00CCFF;
+}
+.csmuahang{
+  width: 257px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-top: -203px;
+    margin-left: 0px;
+}
+.quyenloi li a{
+  color: black;
+  text-decoration: none;
+  margin-left: 3px;
+  margin-top: -100px;
+  font-size: 14px;
+}
+ul { list-style-type: none; }
+.c1:hover{
+  color: #00CCFF;
+}
+.c2:hover{
+  color: #00CCFF;
+}
+.c3:hover{
+  color: #00CCFF;
+}
+.c4:hover{
+  color: #00CCFF;
+}
+.c5:hover{
+  color: #00CCFF;
+}
+.c6:hover{
+  color: #00CCFF;
+}
+.thongtinP{
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 10px;
+  margin-top: -135px;
+  margin-left: 20px;
+}
+.vechungtoi li a{
+  text-decoration: none;
+  margin-left: 60px;
+  color: black;
+  margin-left: 21px;
+  font-size: 14px;
+  margin-top: 70px;
+}
+.z1:hover{
+  color: #00CCFF;
+}
+.z2:hover{
+  color: #00CCFF;
+}
+.z3:hover{
+  color: #00CCFF;
+}
+.z4:hover{
+  color: #00CCFF;
+}
+.z5:hover{
+  color: #00CCFF;
+}
+.z6:hover{
+  color: #00CCFF;
+}
+.lienhe{
+  font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-top: -203px;
+    margin-left: 49px;
+}
+.gmaill li a{
+  text-decoration: none;
+  margin-left: 60px;
+  color: black;
+  margin-left: 47px;
+  margin-top: 50px;
+  font-size: 16px;
+}
+.ti-headphone-alt{
+  margin-left: 0px;
+  margin-top: 29px;
+  font-size: 16px;
+}
+.alo{
+  margin-left: 30px;
+    margin-top: -24px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.alo:hover{
+ color: #00CCFF;
+}
+.aloo{
+  margin-left: 30px;
+    margin-top: -22px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.aloo:hover{
+ color: #00CCFF;
+}
+.clo{
+   margin-left: 0px;
+   margin-top: -5px;
+}
+.ttonl{
+  font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-left: -828px;
+    margin-top: -75px;
+}
+.online{
+  margin-left: -828px;
+}
+.home-img{
+  width: 100px;
+  height: 100px;
+}
+#home_img{
+  margin-top: -1057px;
+    margin-left: 73px;
+}
+

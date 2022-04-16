@@ -1,0 +1,3898 @@
+@media (max-width: 585px) {
+   html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+     overflow-x: hidden !important; 
+}
+    .img{
+        display: none;
+    }
+    .h3, h3 {
+        font-size: 25px;
+
+    }
+    .quan{
+        position: fixed;
+        z-index: 99999;
+        margin-top: -166px;
+        width: 484px;
+    height: 100px;
+    }
+    .backroud{
+        background: #EEEEEE;
+        position: fixed;
+        z-index: 99999;
+    width: 100%;
+    height: 100px;
+    margin-top: 36px;
+    }
+    .menutora{
+       transform: translateY(0%) !important;
+    }
+ .laptoop{
+        display: none !important;
+    }
+
+    .pcgear{
+        display: none !important;
+    }
+    .apple{
+        display: none !important;
+    }
+    .phukien .pks{
+        display: none !important;
+    }
+    .tainghe{
+        display: none !important;
+    }
+    .ss{
+        display: none !important;
+    }
+    .quangcao{
+        display: none !important;
+    }
+    .rung{
+        display: none !important;
+    } 
+    .ytb{
+        display: none;
+    }
+    .sld{
+        display: none;
+    }
+    .vuaghe{
+        display: none;
+    }
+    .trumlap{
+        display: none;
+    }
+    .giamgia{
+        display: none;
+    }
+   
+    .crou{
+        position: relative;
+        margin-top: -758px !important;
+        margin-left: 0px !important;
+        width: 100% !important;
+        height: 250px !important;
+    }
+     .banertrai{
+        background: white!important;
+    width: 97% !important;
+    border-radius: 10px;
+    height: 400px !important;
+    margin-left: 7px !important;
+    margin-top: 13px !important;
+    cursor: pointer !important;
+     }
+     .list{
+         opacity: 0;
+     }
+     .mack{
+        background: #EEEEEE!important;
+    width: 100%!important;
+    height: 841px!important;
+    margin-left: 2px!important;
+    margin-top: -499px!important;
+    border-radius: 10px!important;
+    /* position: relative; */
+     }
+     .makair{
+        position: relative;
+        overflow: hidden;
+        flex: 1 0 auto;
+        display: flex;
+        cursor: unset;
+        z-index: 0;
+        margin: auto;
+        border-radius: 0px;
+        padding-bottom: 5%;
+        width: 100%;
+        margin-top: 32px !important;
+     }
+     .bokk {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+     img.hs{
+        width: 31% !important;
+    height: 307px !important;
+     }
+     .msg{
+        margin-left: -118px;
+    margin-top: 4px;
+    font-size: 13px;
+     }
+     .smn{
+        margin-left: -138px;
+    margin-top: 5px;
+    font-size: 12px;
+     }
+     .ix{
+        margin-left: -133px;
+    margin-top: -12px;
+    width: 68%;
+    height: 93px;
+     }
+     .kedoc{
+        background: #EEEEEE;
+    width: 2px;
+    height: 345px;
+    margin-left: -225px;
+    margin-top: -14px;
+     }
+     .duongke{
+        background: #EEEEEE;
+    width: 376px;
+    height: 2px;
+    margin-left: -1px;
+    margin-top: 144px;
+     }
+     .asus{
+        margin-left: 53px;
+        margin-top: -145px;
+        font-size: 13px;
+     }
+     .asgm {
+        margin-left: 48px;
+        font-size: 12px;
+    }
+    .ia {
+        margin-left: 43px;
+        margin-top: -12px;
+        width: 100px;
+        height: 100px;
+    }
+    .dh {
+        margin-left: -120px;
+        margin-top: 20px;
+        font-size: 12px;
+    }
+    .dhgm {
+        margin-left: -128px;
+        margin-top: -6px;
+        font-size: 12px;
+    }
+    .iz {
+        margin-left: -121px;
+    margin-top: -20px;
+    width: 100px;
+    height: 105px;
+    }
+    .mc {
+        margin-top: -134px;
+    margin-left: 44px;
+    font-size: 12px;
+    }
+    .dcdn {
+        margin-top: -7px;
+        font-size: 13px;
+        margin-left: 29px;
+    }
+    .iq {
+        margin-left: 43px;
+        margin-top: -25px;
+        width: 100px;
+        height: 100px;
+    }
+    .banerphai {
+        background: white !important;
+    border-radius: 10px !important;
+    width: 97% !important;
+    height: 400px !important;
+    margin-left: 7px !important;
+    margin-top: 13px !important;
+    cursor: pointer !important;
+    }
+    .hv_2{
+        display: none;
+    }
+    .hv_3{
+        display: none;
+    }
+    img.hx{
+        width: 31% !important;
+        height: 307px !important;
+        margin-top: -1px;
+}
+    
+    .smnn {
+    margin-left: -130px !important;
+    margin-top: 5px !important;
+    font-size: 13px !important;
+    }
+    .asuss {
+        margin-left: 39px !important;
+        margin-top: -145px !important;
+        font-size: 13px !important;
+    }
+    
+    .pow {
+        margin-left: 40px;
+        margin-top: -12px;
+        width: 100px;
+        height: 76px;
+    }
+    .asgmm {
+        margin-left: 55px;
+        font-size: 13px;
+    }
+    .dhh {
+        margin-left: -128px;
+    margin-top: 36px;
+    font-size: 13px;
+    }
+    .dhg {
+        margin-left: -132px;
+    margin-top: -2px;
+    font-size: 13px;
+    }
+    .aple{
+        margin-top: -140px;
+        margin-left: 44px;
+        font-size: 13px;
+    }
+    .dcd {
+        margin-left: 42px;
+    font-size: 13px;
+    margin-top: 5px;
+    }
+    .highlight {
+        background: #EEEEEE;
+    width: 484px;
+    height: 159px;
+    margin-left: 1px;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 100%;
+    }
+    .thanhngang {
+        background: black;
+        width: 3px;
+        height: 22px;
+        margin-left: 3px;
+        margin-top: -22px;
+    }
+    .thuonghieu {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 20px;
+        margin-top: -136px;
+    }
+    .thnb {
+        margin-left: 14px;
+        margin-top: 16px;
+        width: 20%;
+        height: 55px;
+    }
+    .MSI {
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-left: 48px;
+        margin-top: 10px;
+    }
+    .thnbb {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 135px;
+        margin-top: -90px;
+        width: 20%;
+        height: 55px;
+    }
+    .HP {
+        font-weight: 500;
+    margin-top: 1rem;
+    margin-left: 172px;
+    margin-top: 9px;
+    }
+    .thnnb {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 257px;
+    margin-top: -89px;
+        width: 20%;
+        height: 55px;
+    }
+    .LG {
+        font-weight: 500;
+    margin-top: 1rem;
+    margin-left: 295px;
+    margin-top: 10px;
+    }
+    .thhnb {
+        color: #333;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    margin-left: 378px;
+    margin-top: -89px;
+    width: 20%;
+    height: 55px
+    }
+    .Lenovo {
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-left: 401px;
+        margin-top: 9px;
+    
+    }
+    .navv{
+        display: none;
+    }
+    .ds{
+        display: none;
+    }
+    .signin{
+        display: none;
+    }
+    .cart{
+        display: none;
+    }
+    .ti-vector{
+        display: none;
+    }
+    .phone{
+        display: none;
+    }
+    .logo img{
+        width: 110%;
+        height: 100px;
+        margin-left: -50px;
+        margin-top: 5px;
+    }
+    .iput{
+        margin-top: -3px;
+        margin-left: -30px;
+        width: 300px;       
+    }
+    .iconn{
+        margin-left: 22px;
+        margin-top: 32px;
+    }
+    .ba{
+        display: none !important;
+    }
+    .quangcao{
+        display: none !important;
+    }
+    input[type=text]{
+            height: 40px !important;
+            background: #fff;
+            padding: 0 20px !important;
+            margin-top: 30px !important;
+            margin-left: 20px !important;
+          width: 110%;
+          border: 1px solid #CCCCCC;
+          outline: none;
+        
+    }
+    .bannerr {
+        background: #CC0000;
+    width: 100%;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 11px;
+    }
+    .containerr{
+        background: #EEEEEE!important;
+        width: 100%!important;
+        height: 400px!important;
+        margin-left: 0px!important;
+        display: inline-block!important;
+        border-radius: 10px!important;
+    }
+    .roww{
+        width: 100%;
+    }
+     .rowo{
+        display: flex;
+        margin: 0px -12px;
+        display: flex;
+        flex-wrap: wrap;
+    }  
+    .lkdeal {
+        background: #fff;
+    width: 83%;
+    height: 330px;
+    margin-top: 11px;
+    margin-left: -115px;
+    border: 1px solid #DDDDDD;
+    }
+    .itemm {
+        margin-left: -1px;
+        margin-top: -359px;
+    }
+    .col-md-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 100% !important;
+    }
+    .lkdeall {
+        background: #fff;
+        width: 79% !important;
+        height: 330px;
+        margin-top: 32px !important;
+        margin-left: 33px !important;
+        border: 1px solid #DDDDDD;
+    }
+    .mixz {
+        margin-left: -6px;
+    }
+    .lkdealz {
+        background: #fff;
+    width: 83%;
+    height: 330px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border: 1px solid #DDDDDD;
+    }
+    .item img{
+        margin-left: -6px;
+    margin-top: -8px;
+    width: 100% !important;
+    }
+    .tensp {
+        font-size: 15px;
+        margin-left: 15px;
+        margin-top: 0px;
+    }
+    .lkdealk {
+        background: #fff;
+    width: 49%;
+    height: 330px;
+    margin-top: -330px;
+    margin-left: 258px;
+    border: 1px solid #DDDDDD;
+    }
+    .ui {
+        background: #CC0000;
+    width: 100%;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 2px;
+    }
+    .oaa{
+        font-size: 15px;
+    }
+   
+    .dealhotht {
+        background: #EEEEEE;
+    width: 100%;
+    height: 720px !important;
+    margin-left: 2px;
+    display: inline-block;
+    border-radius: 10px;
+    }
+    .duoi .trai .lop1 {
+        font-size: 13px;
+        margin-top: -1px;
+    }
+    .mlz{
+        font-size: 12px !important;
+    }
+    .duoi .trai .lop2 {
+        margin-top: -10px !important;
+        width: 120%;
+    }
+    .duoi .trai .lop2 i {
+        margin-right: 11px;
+    }
+    .itemm img{
+        width: 100% !important;
+    }
+    .ch{
+        display: none;
+    }
+    .produc{
+        margin-left: 5px !important;
+        padding: 5px 2px !important;
+    }
+    .tenlt {
+        background: white;
+        width: 109%;
+        height: 117px;
+        display: block;
+        margin-top: 0px;
+        margin-left: -16px;
+        position: relative;
+        z-index: 9;
+    }
+    .opacti {
+        background: none repeat scroll 0 0 rgba(121, 117, 101, 0.8);
+    bottom: -100px;
+    color: #fff!important;
+    font-size: 13px;
+    left: 0;
+    padding: 10px;
+    width: 237px !important;
+    position: absolute;
+    transition: bottom 0.5s ease 0s;
+    width: 99% !important;
+    text-decoration: none;
+    height: 52px;
+    }
+    .mq {
+        text-decoration: none !important;
+        font-size: 12px;
+        color: #FFF;
+        padding-top: 7px;
+        font-style: italic;
+    }
+   .itemm img{
+       width: 240px;
+       height: 240px;
+   }
+    .dealtot{
+        display: none;
+    }
+    .dealtott{
+        display: none;
+    }
+    .deaa{
+        display: none;
+    }
+    .dell{
+        display: none;
+    }
+  
+    .xtc{
+        margin-left: 358px;
+    }
+    .xtcx{
+        margin-left: 358px;
+    }
+    
+    .mlz {
+        margin-left: 10px;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    .ido {
+        margin-top: 14px;
+        font-size: 13px;
+    }
+    .bane {
+        background: #CC0000;
+        width: 100%;
+        height: 40px;
+        margin-left: 0px;
+        margin-top: 1px;
+    }
+    /* .top {
+        background: #EEEEEE;
+        width: 1343px;
+        height: 150px;
+        margin-top: 22px;
+    } */
+    .foter{
+        width: 100%;
+    }
+    .top {
+        background: #EEEEEE;
+        width: 100%;
+        height: 467px;
+        margin-top: 22px;
+    }
+    .kn {
+        font-weight: 600;
+    margin-left: 7px;
+    margin-top: -450px;
+    font-size: 18px;
+    }
+    .icon {
+        margin-top: -21px;
+        margin-left: -67px;
+    }
+    
+    .ttn {
+        font-weight: 600;
+    font-size: 18px;
+    margin-left: 274px;
+    margin-top: -102px
+    }
+      .vs{
+          margin-left: -183px;
+          margin-top: -14px;
+      }
+      .ms{
+        margin-left: -183px;
+    }
+    #bjc{
+        margin-left: -183px;
+    }
+    .bankk{
+        margin-left: -183px;
+    }
+    .nhapma {
+        font-weight: 600;
+    font-size: 17px;
+    margin-left: 22px;
+    margin-top: 35px;
+    }
+    #mail {
+        border-radius: 10px;
+        position: absolute;
+        margin-left: -728px !important;
+        margin-top: 28px !important;
+    }
+    .send {
+        background: #ffe401;
+    width: 77px;
+    height: 38px;
+    margin-left: 372px;
+    margin-top: 29px;
+    position: relative;
+    z-index: 10;
+    border-radius: 0px 10px 10px 0px;
+    }
+    .sendd {
+        margin-left: 397px;
+        margin-top: -32px !important;
+        font-weight: 500;
+        position: relative;
+        z-index: 11;
+    }
+    .csgh {
+        background: white;
+        width: 100%;
+        height: 284px;
+    }
+    .gh {
+        margin-left: -3px;
+    margin-top: 26px;
+    }
+    .dtrhang {
+        margin-top: 14px;
+    margin-left: 218px;
+    }
+    .tttienloi {
+        margin-left: -5px;
+    margin-top: 0px;
+    }
+    .hotro {
+        margin-left: 220px;
+    margin-top: 21px;
+    }
+    .foter-reles {
+        background: #EEEEEE;
+        width: 100%;
+        height: 700px;
+    }
+    .htk {
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 10px;
+        margin-top: -675px;
+        margin-left: 21px;
+    }
+    .uutien{
+        margin-top: -2px;
+    margin-left: -39px;
+    }
+    #s2 {
+        margin-left: 220px;
+        width: 260px;
+        height: 204px;
+    }
+    #s3 {
+        margin-left: -5px;
+    margin-top: 135px;
+    width: 260px;
+    height: 204px;
+    }
+    #s4 {
+        margin-left: 174px;
+        margin-top: -204px;
+        width: 260px;
+        height: 204px;
+    }
+    .ttonl {
+        font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-left: -161px;
+    margin-top: 12px;
+    }
+    .online {
+        margin-left: -162px;
+        width: 450px;
+        height: 40px;
+    }
+    .foter-bot {
+        background: #666666;
+        width: 100%;
+        height: 1px;
+        margin-top: 1px;
+        margin-left: 1px;
+    }
+    .foter-main {
+        background: #666666;
+        width: 100%;
+        height: 1px;                                   
+        margin-top: 41px;
+        margin-left: 1px;
+    }      
+    .wrapper{
+        display: none !important;
+    }                
+    .highlightt{
+        width: 100%;
+    }        
+    .phuthuoc{
+        margin-top: -20px;
+        width: 105%;
+    }           
+    .dz{
+        width: 176% !important;
+    }   
+    .lap-1{
+        width: 100%;
+    }
+    .dareu{
+        width: 48%!important;
+    }
+    .ueh{
+        width: 48%!important;
+        height: 330px;
+    margin-top: 11px !important;
+    margin-left: 15px !important;
+    border: 1px solid #DDDDDD;
+    }
+    .ro_lap {
+        margin-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    }
+ .ro_lapp{
+    display: flex !important;
+    margin: -1px -1px !important;
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100% !important;
+    } 
+    .nav__btn{
+        position: relative;
+        z-index: 999999999;
+        display: block;
+        width: 28px;
+        height: 28px;
+        color: #fff;
+    }
+   .nav__bars-btn{
+       margin-left: -455px !important;
+       margin-top: 70px;
+       color: white;
+   } 
+    /* .nav__overlay{
+       position: fixed;
+       width: 320px;
+       top: 0;
+       bottom: 0;
+       left: 0;
+     max-width: 100%;
+     background: white !important;
+    
+   } */
+}
+@media (min-width: 585px) and (max-width: 639px) {
+   html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+     overflow-x: hidden !important; 
+}
+    .img{
+        display: none;
+    }
+    .h3, h3 {
+        font-size: 25px;
+
+    }
+    .quan{
+        position: fixed;
+        z-index: 99999;
+        margin-top: -166px;
+        width: 484px;
+    height: 100px;
+    }
+    .backroud{
+        background: #EEEEEE;
+        position: fixed;
+        z-index: 99999;
+    width: 100%;
+    height: 100px;
+    margin-top: 36px;
+    }
+    .menutora{
+       transform: translateY(0%) !important;
+    }
+ .laptoop{
+        display: none !important;
+    }
+
+    .pcgear{
+        display: none !important;
+    }
+    .apple{
+        display: none !important;
+    }
+    .phukien .pks{
+        display: none !important;
+    }
+    .tainghe{
+        display: none !important;
+    }
+    .ss{
+        display: none !important;
+    }
+    .quangcao{
+        display: none !important;
+    }
+    .rung{
+        display: none !important;
+    } 
+    .ytb{
+        display: none;
+    }
+    .sld{
+        display: none;
+    }
+    .vuaghe{
+        display: none;
+    }
+    .trumlap{
+        display: none;
+    }
+    .giamgia{
+        display: none;
+    }
+   
+    .crou{
+        position: relative;
+        margin-top: -758px !important;
+        margin-left: 0px !important;
+        width: 100% !important;
+        height: 250px !important;
+    }
+     .banertrai{
+        background: white!important;
+    width: 97% !important;
+    border-radius: 10px;
+    height: 400px !important;
+    margin-left: 7px !important;
+    margin-top: 13px !important;
+    cursor: pointer !important;
+     }
+     .list{
+         opacity: 0;
+     }
+     .mack{
+        background: #EEEEEE!important;
+    width: 100%!important;
+    height: 841px!important;
+    margin-left: 2px!important;
+    margin-top: -499px!important;
+    border-radius: 10px!important;
+    /* position: relative; */
+     }
+     .makair{
+        position: relative;
+        overflow: hidden;
+        flex: 1 0 auto;
+        display: flex;
+        cursor: unset;
+        z-index: 0;
+        margin: auto;
+        border-radius: 0px;
+        padding-bottom: 5%;
+        width: 100%;
+        margin-top: 32px !important;
+     }
+     .bokk {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+     img.hs{
+        width: 31% !important;
+    height: 307px !important;
+     }
+     .msg{
+        margin-left: -118px;
+    margin-top: 4px;
+    font-size: 13px;
+     }
+     .smn{
+        margin-left: -138px;
+    margin-top: 5px;
+    font-size: 12px;
+     }
+     .ix{
+        margin-left: -133px;
+    margin-top: -12px;
+    width: 68%;
+    height: 93px;
+     }
+     .kedoc{
+        background: #EEEEEE;
+    width: 2px;
+    height: 345px;
+    margin-left: -225px;
+    margin-top: -14px;
+     }
+     .duongke{
+        background: #EEEEEE;
+    width: 376px;
+    height: 2px;
+    margin-left: -1px;
+    margin-top: 144px;
+     }
+     .asus{
+        margin-left: 53px;
+        margin-top: -145px;
+        font-size: 13px;
+     }
+     .asgm {
+        margin-left: 48px;
+        font-size: 12px;
+    }
+    .ia {
+        margin-left: 43px;
+        margin-top: -12px;
+        width: 100px;
+        height: 100px;
+    }
+    .dh {
+        margin-left: -120px;
+        margin-top: 20px;
+        font-size: 12px;
+    }
+    .dhgm {
+        margin-left: -128px;
+        margin-top: -6px;
+        font-size: 12px;
+    }
+    .iz {
+        margin-left: -121px;
+    margin-top: -20px;
+    width: 100px;
+    height: 105px;
+    }
+    .mc {
+        margin-top: -134px;
+    margin-left: 44px;
+    font-size: 12px;
+    }
+    .dcdn {
+        margin-top: -7px;
+        font-size: 13px;
+        margin-left: 29px;
+    }
+    .iq {
+        margin-left: 43px;
+        margin-top: -25px;
+        width: 100px;
+        height: 100px;
+    }
+    .banerphai {
+        background: white !important;
+    border-radius: 10px !important;
+    width: 97% !important;
+    height: 400px !important;
+    margin-left: 7px !important;
+    margin-top: 13px !important;
+    cursor: pointer !important;
+    }
+    .hv_2{
+        display: none;
+    }
+    .hv_3{
+        display: none;
+    }
+    img.hx{
+        width: 31% !important;
+        height: 307px !important;
+        margin-top: -1px;
+}
+    
+    .smnn {
+    margin-left: -130px !important;
+    margin-top: 5px !important;
+    font-size: 13px !important;
+    }
+    .asuss {
+        margin-left: 39px !important;
+        margin-top: -145px !important;
+        font-size: 13px !important;
+    }
+    
+    .pow {
+        margin-left: 40px;
+        margin-top: -12px;
+        width: 100px;
+        height: 76px;
+    }
+    .asgmm {
+        margin-left: 55px;
+        font-size: 13px;
+    }
+    .dhh {
+        margin-left: -128px;
+    margin-top: 36px;
+    font-size: 13px;
+    }
+    .dhg {
+        margin-left: -132px;
+    margin-top: -2px;
+    font-size: 13px;
+    }
+    .aple{
+        margin-top: -140px;
+        margin-left: 44px;
+        font-size: 13px;
+    }
+    .dcd {
+        margin-left: 42px;
+    font-size: 13px;
+    margin-top: 5px;
+    }
+    .highlight {
+        background: #EEEEEE;
+    width: 484px;
+    height: 159px;
+    margin-left: 1px;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 100%;
+    }
+    .thanhngang {
+        background: black;
+        width: 3px;
+        height: 22px;
+        margin-left: 3px;
+        margin-top: -22px;
+    }
+    .thuonghieu {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 20px;
+        margin-top: -136px;
+    }
+    .thnb {
+        margin-left: 14px;
+        margin-top: 16px;
+        width: 20%;
+        height: 55px;
+    }
+    .MSI {
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-left: 48px;
+        margin-top: 10px;
+    }
+    .thnbb {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 135px;
+        margin-top: -90px;
+        width: 20%;
+        height: 55px;
+    }
+    .HP {
+        font-weight: 500;
+    margin-top: 1rem;
+    margin-left: 172px;
+    margin-top: 9px;
+    }
+    .thnnb {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 257px;
+    margin-top: -89px;
+        width: 20%;
+        height: 55px;
+    }
+    .LG {
+        font-weight: 500;
+    margin-top: 1rem;
+    margin-left: 295px;
+    margin-top: 10px;
+    }
+    .thhnb {
+        color: #333;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    margin-left: 378px;
+    margin-top: -89px;
+    width: 20%;
+    height: 55px
+    }
+    .Lenovo {
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-left: 401px;
+        margin-top: 9px;
+    
+    }
+    .navv{
+        display: none;
+    }
+    .ds{
+        display: none;
+    }
+    .signin{
+        display: none;
+    }
+    .cart{
+        display: none;
+    }
+    .ti-vector{
+        display: none;
+    }
+    .phone{
+        display: none;
+    }
+    .logo img{
+        width: 110%;
+        height: 100px;
+        margin-left: -50px;
+        margin-top: 5px;
+    }
+    .iput{
+        margin-top: -3px;
+        margin-left: -30px;
+        width: 300px;       
+    }
+    .iconn{
+        margin-left: 22px;
+        margin-top: 32px;
+    }
+    .ba{
+        display: none !important;
+    }
+    .quangcao{
+        display: none !important;
+    }
+    input[type=text]{
+            height: 40px !important;
+            background: #fff;
+            padding: 0 20px !important;
+            margin-top: 30px !important;
+            margin-left: 20px !important;
+          width: 110%;
+          border: 1px solid #CCCCCC;
+          outline: none;
+        
+    }
+    .bannerr {
+        background: #CC0000;
+    width: 100%;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 11px;
+    }
+    .containerr{
+        background: #EEEEEE!important;
+        width: 100%!important;
+        height: 400px!important;
+        margin-left: 0px!important;
+        display: inline-block!important;
+        border-radius: 10px!important;
+    }
+    .roww{
+        width: 100%;
+    }
+     .rowo{
+        display: flex;
+        margin: 0px -12px;
+        display: flex;
+        flex-wrap: wrap;
+    }  
+    .lkdeal {
+        background: #fff;
+    width: 83%;
+    height: 330px;
+    margin-top: 11px;
+    margin-left: -115px;
+    border: 1px solid #DDDDDD;
+    }
+    .itemm {
+        margin-left: -1px;
+        margin-top: -359px;
+    }
+    .col-md-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 100% !important;
+    }
+    .lkdeall {
+        background: #fff;
+    width: 100% !important;
+    height: 330px;
+    margin-top: 32px !important;
+    margin-left: 3px !important;
+    border: 1px solid #DDDDDD;
+    }
+    .mixz {
+        margin-left: -6px;
+    }
+    .lkdealz {
+        background: #fff;
+    width: 83%;
+    height: 330px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border: 1px solid #DDDDDD;
+    }
+    .item img{
+        margin-left: -6px;
+    margin-top: -8px;
+    width: 100% !important;
+    }
+    .tensp {
+        font-size: 15px;
+        margin-left: 15px;
+        margin-top: 0px;
+    }
+    .lkdealk {
+        background: #fff;
+    width: 49%;
+    height: 330px;
+    margin-top: -330px;
+    margin-left: 258px;
+    border: 1px solid #DDDDDD;
+    }
+    .ui {
+        background: #CC0000;
+    width: 100%;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 2px;
+    }
+    .oaa{
+        font-size: 15px;
+    }
+   
+    .dealhotht {
+        background: #EEEEEE;
+    width: 100%;
+    height: 720px !important;
+    margin-left: 2px;
+    display: inline-block;
+    border-radius: 10px;
+    }
+    .duoi .trai .lop1 {
+        font-size: 13px;
+        margin-top: -1px;
+    }
+    .mlz{
+        font-size: 12px !important;
+    }
+    .duoi .trai .lop2 {
+        margin-top: -10px !important;
+        width: 120% !important;
+    }
+    .duoi .trai .lop2 i {
+        margin-right: 11px !important;
+    }
+    .itemm img{
+        width: 100% !important;
+    }
+    .ch{
+        display: none;
+    }
+    .produc{
+        margin-left: 5px !important;
+        padding: 5px 2px !important;
+    }
+    .tenlt {
+        background: white;
+        width: 109%;
+        height: 117px;
+        display: block;
+        margin-top: 0px;
+        margin-left: -16px;
+        position: relative;
+        z-index: 9;
+    }
+    .opacti {
+        background: none repeat scroll 0 0 rgba(121, 117, 101, 0.8);
+    bottom: -100px;
+    color: #fff!important;
+    font-size: 13px;
+    left: 0;
+    padding: 10px;
+    width: 237px !important;
+    position: absolute;
+    transition: bottom 0.5s ease 0s;
+    width: 99% !important;
+    text-decoration: none;
+    height: 52px;
+    }
+    .mq {
+        text-decoration: none !important;
+        font-size: 12px;
+        color: #FFF;
+        padding-top: 7px;
+        font-style: italic;
+    }
+   .itemm img{
+       width: 240px;
+       height: 240px;
+   }
+    .dealtot{
+        display: none;
+    }
+    .dealtott{
+        display: none;
+    }
+    .deaa{
+        display: none;
+    }
+    .dell{
+        display: none;
+    }
+  
+    .xtc{
+        margin-left: 358px;
+    }
+    .xtcx{
+        margin-left: 358px;
+    }
+    
+    .mlz {
+        margin-left: 10px;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    .ido {
+        margin-top: 14px;
+        font-size: 13px;
+    }
+    .bane {
+        background: #CC0000;
+        width: 100%;
+        height: 40px;
+        margin-left: 0px;
+        margin-top: 1px;
+    }
+    /* .top {
+        background: #EEEEEE;
+        width: 1343px;
+        height: 150px;
+        margin-top: 22px;
+    } */
+    .foter{
+        width: 100%;
+    }
+    .top {
+        background: #EEEEEE;
+        width: 100%;
+        height: 467px;
+        margin-top: 22px;
+    }
+    .kn {
+        font-weight: 600;
+    margin-left: 7px;
+    margin-top: -450px;
+    font-size: 18px;
+    }
+    .icon {
+        margin-top: -21px;
+        margin-left: -67px;
+    }
+    
+    .ttn {
+        font-weight: 600;
+    font-size: 18px;
+    margin-left: 274px;
+    margin-top: -102px
+    }
+      .vs{
+          margin-left: -183px;
+          margin-top: -14px;
+      }
+      .ms{
+        margin-left: -183px;
+    }
+    #bjc{
+        margin-left: -183px;
+    }
+    .bankk{
+        margin-left: -183px;
+    }
+    .nhapma {
+        font-weight: 600;
+    font-size: 17px;
+    margin-left: 22px;
+    margin-top: 35px;
+    }
+    #mail {
+        border-radius: 10px;
+        position: absolute;
+        margin-left: -728px !important;
+        margin-top: 28px !important;
+    }
+    .send {
+        background: #ffe401;
+    width: 77px;
+    height: 38px;
+    margin-left: 372px;
+    margin-top: 29px;
+    position: relative;
+    z-index: 10;
+    border-radius: 0px 10px 10px 0px;
+    }
+    .sendd {
+        margin-left: 397px;
+        margin-top: -32px !important;
+        font-weight: 500;
+        position: relative;
+        z-index: 11;
+    }
+    .csgh {
+        background: white;
+        width: 100%;
+        height: 284px;
+    }
+    .gh {
+        margin-left: -3px;
+    margin-top: 26px;
+    }
+    .dtrhang {
+        margin-top: 14px;
+    margin-left: 218px;
+    }
+    .tttienloi {
+        margin-left: -5px;
+    margin-top: 0px;
+    }
+    .hotro {
+        margin-left: 220px;
+    margin-top: 21px;
+    }
+    .foter-reles {
+        background: #EEEEEE;
+        width: 100%;
+        height: 700px;
+    }
+    .htk {
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 10px;
+        margin-top: -675px;
+        margin-left: 21px;
+    }
+    .uutien{
+        margin-top: -2px;
+    margin-left: -39px;
+    }
+    #s2 {
+        margin-left: 220px;
+        width: 260px;
+        height: 204px;
+    }
+    #s3 {
+        margin-left: -5px;
+    margin-top: 135px;
+    width: 260px;
+    height: 204px;
+    }
+    #s4 {
+        margin-left: 174px;
+        margin-top: -204px;
+        width: 260px;
+        height: 204px;
+    }
+    .ttonl {
+        font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-left: -161px;
+    margin-top: 12px;
+    }
+    .online {
+        margin-left: -162px;
+        width: 450px;
+        height: 40px;
+    }
+    .foter-bot {
+        background: #666666;
+        width: 100%;
+        height: 1px;
+        margin-top: 1px;
+        margin-left: 1px;
+    }
+    .foter-main {
+        background: #666666;
+        width: 100%;
+        height: 1px;                                   
+        margin-top: 41px;
+        margin-left: 1px;
+    }      
+    .wrapper{
+        display: none !important;
+    }                
+    .highlightt{
+        width: 100%;
+    }        
+    .phuthuoc{
+        margin-top: -20px;
+        width: 105%;
+    }           
+    .dz{
+        width: 176% !important;
+    }   
+    .lap-1{
+        width: 100%;
+    }
+    .dareu{
+        width: 48%!important;
+    }
+    .ueh{
+        width: 48%!important;
+        height: 330px;
+    margin-top: 11px !important;
+    margin-left: 15px !important;
+    border: 1px solid #DDDDDD;
+    }
+    .ro_lap {
+        margin-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    }
+ .ro_lapp{
+    display: flex !important;
+    margin: -1px -1px !important;
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100% !important;
+    } 
+    .nav__btn{
+        position: relative;
+        z-index: 999999999;
+        display: block;
+        width: 28px;
+        height: 28px;
+        color: #fff;
+    }
+   .nav__bars-btn{
+       margin-left: -455px !important;
+       margin-top: 70px;
+       color: white;
+   } 
+    /* .nav__overlay{
+       position: fixed;
+       width: 320px;
+       top: 0;
+       bottom: 0;
+       left: 0;
+     max-width: 100%;
+     background: white !important;
+    
+   } */
+}
+
+
+@media (min-width: 640px) and (max-width: 799px){
+    html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+     overflow-x: hidden !important; 
+}
+    .img{
+        display: none;
+    }
+    .h3, h3 {
+        font-size: 25px;
+
+    }
+    .list{
+        opacity: 0;
+    }
+    .quan{
+        position: fixed;
+        z-index: 99999;
+        margin-top: -166px;
+        width: 484px;
+    height: 100px;
+    }
+    .backroud{
+        background: #EEEEEE;
+        position: fixed;
+        z-index: 99999;
+    width: 100%;
+    height: 100px;
+    margin-top: 36px;
+    }
+    .menutora{
+       display: none !important;
+    }
+ .laptoop{
+        display: none !important;
+    }
+
+    .pcgear{
+        display: none !important;
+    }
+    .apple{
+        display: none !important;
+    }
+    .phukien .pks{
+        display: none !important;
+    }
+    .tainghe{
+        display: none !important;
+    }
+    .ss{
+        display: none !important;
+    }
+    .quangcao{
+        display: none !important;
+    }
+    .rung{
+        display: none !important;
+    } 
+    .ytb{
+        display: none;
+    }
+    .sld{
+        display: none;
+    }
+    .vuaghe{
+        display: none;
+    }
+    .trumlap{
+        display: none;
+    }
+    .giamgia{
+        display: none;
+    }
+    .crou{
+        position: relative;
+        margin-top: -660px !important;
+        margin-left: 0px !important;
+        width: 100% !important;
+        height: 250px !important;
+    }
+     .banertrai{
+        background: white!important;
+    width: 97% !important;
+    border-radius: 10px;
+    height: 400px !important;
+    margin-left: 7px !important;
+    margin-top: 13px !important;
+    cursor: pointer !important;
+     }
+     .mack{
+        background: #EEEEEE!important;
+    width: 100%!important;
+    height: 841px!important;
+    margin-left: 2px!important;
+    margin-top: -292px!important;
+    border-radius: 10px!important;
+    /* position: relative; */
+     }
+     .makair{
+        position: relative;
+        overflow: hidden;
+        flex: 1 0 auto;
+        display: flex;
+        cursor: unset;
+        z-index: 0;
+        margin: auto;
+        border-radius: 0px;
+        padding-bottom: 5%;
+        width: 100%;
+        margin-top: 32px !important;
+        margin-left: 32px;
+     }
+     .bokk {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+     img.hs{
+        width: 31% !important;
+    height: 307px !important;
+     }
+     .msg{
+        margin-left: -118px;
+    margin-top: 4px;
+    font-size: 13px;
+     }
+     .smn{
+        margin-left: -138px;
+    margin-top: 5px;
+    font-size: 12px;
+     }
+     .ix{
+        margin-left: -133px;
+    margin-top: -12px;
+    width: 68%;
+    height: 93px;
+     }
+     .kedoc{
+        background: #EEEEEE;
+    width: 2px;
+    height: 345px;
+    margin-left: -225px;
+    margin-top: -14px;
+     }
+     .duongke{
+        background: #EEEEEE;
+    width: 376px;
+    height: 2px;
+    margin-left: 27px;
+    margin-top: 144px;
+     }
+     .duoi .trai .lop2 {
+        margin-top: 10px !important;
+        width: 120% !important;
+    }
+    .duoi .trai .lop2 i {
+        margin-right: 11px !important;
+    }
+     .asus{
+        margin-left: 53px;
+        margin-top: -145px;
+        font-size: 13px;
+     }
+     .asgm {
+        margin-left: 48px;
+        font-size: 12px;
+    }
+    .ia {
+        margin-left: 43px;
+        margin-top: -12px;
+        width: 100px;
+        height: 100px;
+    }
+    .dh {
+        margin-left: -120px;
+        margin-top: 20px;
+        font-size: 12px;
+    }
+    .dhgm {
+        margin-left: -128px;
+        margin-top: -6px;
+        font-size: 12px;
+    }
+    .iz {
+        margin-left: -121px;
+    margin-top: -20px;
+    width: 100px;
+    height: 105px;
+    }
+    .mc {
+        margin-top: -134px;
+    margin-left: 44px;
+    font-size: 12px;
+    }
+    .dcdn {
+        margin-top: -7px;
+        font-size: 13px;
+        margin-left: 29px;
+    }
+    .iq {
+        margin-left: 43px;
+        margin-top: -25px;
+        width: 100px;
+        height: 100px;
+    }
+    .banerphai {
+        background: white !important;
+    border-radius: 10px !important;
+    width: 97% !important;
+    height: 400px !important;
+    margin-left: 7px !important;
+    margin-top: 13px !important;
+    cursor: pointer !important;
+    }
+    img.hx{
+        width: 31% !important;
+        height: 307px !important;
+        margin-top: -1px;
+}
+    
+    .smnn {
+    margin-left: -130px !important;
+    margin-top: 5px !important;
+    font-size: 13px !important;
+    }
+    .asuss {
+        margin-left: 39px !important;
+        margin-top: -145px !important;
+        font-size: 13px !important;
+    }
+    
+    .pow {
+        margin-left: 40px;
+        margin-top: -12px;
+        width: 100px;
+        height: 76px;
+    }
+    .asgmm {
+        margin-left: 55px;
+        font-size: 13px;
+    }
+    .dhh {
+        margin-left: -128px;
+    margin-top: 36px;
+    font-size: 13px;
+    }
+    .dhg {
+        margin-left: -132px;
+    margin-top: -2px;
+    font-size: 13px;
+    }
+    .aple{
+        margin-top: -140px;
+        margin-left: 44px;
+        font-size: 13px;
+    }
+    .dcd {
+        margin-left: 42px;
+    font-size: 13px;
+    margin-top: 5px;
+    }
+    .highlight {
+        background: #EEEEEE;
+    width: 484px;
+    height: 159px;
+    margin-left: 1px;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 100%;
+    }
+    .thanhngang {
+        background: black;
+        width: 3px;
+        height: 22px;
+        margin-left: 3px;
+        margin-top: -22px;
+    }
+    .thuonghieu {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 20px;
+        margin-top: -136px;
+    }
+    .thnb {
+        margin-left: 51px;
+        margin-top: 16px;
+        width: 20%;
+        height: 55px;
+    }
+    .MSI {
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-left: 98px;
+        margin-top: 10px;
+    }
+    .thnbb {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 215px;
+        margin-top: -90px;
+        width: 20%;
+        height: 55px;
+    }
+    .HP {
+        font-weight: 500;
+    margin-top: 1rem;
+    margin-left: 258px;
+    margin-top: 9px;
+    }
+    .thnnb {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 377px;
+    margin-top: -89px;
+        width: 20%;
+        height: 55px;
+    }
+    .LG {
+        font-weight: 500;
+    margin-top: 1rem;
+    margin-left: 424px;
+    margin-top: 10px;
+    }
+    .thhnb {
+        color: #333;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    margin-left: 539px;
+    margin-top: -89px;
+    width: 20%;
+    height: 55px
+    }
+    .Lenovo {
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-left: 586px;
+        margin-top: 9px;
+    
+    }
+    .navv{
+        display: none;
+    }
+    .ds{
+        display: none;
+    }
+    .signin{
+        display: none;
+    }
+    .cart{
+        display: none;
+    }
+    .ti-vector{
+        display: none;
+    }
+    .phone{
+        display: none;
+    }
+    .logo img{
+        width: 110%;
+        height: 100px;
+        margin-left: -50px;
+        margin-top: 5px;
+    }
+    .iput{
+        margin-top: -3px;
+        margin-left: -30px;
+        width: 300px;       
+    }
+    .iconn{
+        margin-left: 22px;
+        margin-top: 32px;
+    }
+    .ba{
+        display: none !important;
+    }
+    .menutora{
+        display: none;
+    }
+    .quangcao{
+        display: none !important;
+    }
+    input[type=text]{
+            height: 40px !important;
+            background: #fff;
+            padding: 0 20px !important;
+            margin-top: 30px !important;
+            margin-left: 20px !important;
+          width: 110%;
+          border: 1px solid #CCCCCC;
+          outline: none;
+        
+    }
+    .bannerr {
+        background: #CC0000;
+    width: 100%;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 11px;
+    }
+    .containerr{
+        background: #EEEEEE!important;
+        width: 100%!important;
+        height: 400px!important;
+        margin-left: 0px!important;
+        display: inline-block!important;
+        border-radius: 10px!important;
+    }
+    .dz{
+        width: 145% !important;
+    }
+    .oaa{
+        font-size: 15px;
+    }
+    .lkdeal {
+        background: #fff;
+        width: 38%;
+        height: 330px;
+        margin-top: 11px;
+        margin-left: -73px;
+        border: 1px solid #DDDDDD;
+    }
+    /* .itemm {
+        margin-left: -17px;
+        margin-top: -359px;
+        height: 220px;
+    }*/
+    .phuthuoc{
+        margin-top: -20px;
+        width: 108%;
+    } 
+    .lkdeall {
+        background: #fff;
+    width: 100%;
+    height: 330px;
+    margin-top: 32px;
+    margin-left: 3px !important;
+    border: 1px solid #DDDDDD;
+    }
+    .col-md-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 100% !important;
+    }
+    .mixz {
+        margin-left: -6px;
+    }
+    .lkdealz {
+        background: #fff;
+        width: 38%;
+        height: 330px;
+        margin-top: 12px;
+        margin-left: 18px !important;
+        border: 1px solid #DDDDDD;
+    }
+    .item{
+        margin-left: 0px;
+    margin-top: -8px;
+    width: 97%;
+    }
+    .tensp {
+        font-size: 15px;
+        margin-left: 15px;
+        margin-top: 0px;
+    }
+    .lkdealk {
+        background: #fff;
+    width: 41%;
+    height: 330px;
+    margin-top: -330px;
+    margin-left: 383px;
+    border: 1px solid #DDDDDD;
+    }
+    .ui {
+        background: #CC0000;
+    width: 100%;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 2px;
+    }
+    .dealhotht {
+        background: #EEEEEE;
+    width: 100%;
+    height: 720px !important;
+    margin-left: 2px;
+    display: inline-block;
+    border-radius: 10px;
+    }
+    .tenlt {
+        background: white;
+    width: 105.9% !important;
+    height: 117px;
+    display: block;
+    margin-top: -2px;
+    margin-left: -16px;
+    position: relative;
+    z-index: 9;
+    }
+    .opacti {
+        background: none repeat scroll 0 0 rgba(121, 117, 101, 0.8);
+    bottom: -100px;
+    color: #fff!important;
+    font-size: 13px;
+    left: 0;
+    padding: 10px;
+    width: 267px !important;
+    position: absolute;
+    transition: bottom 0.5s ease 0s;
+    width: 100% !important;
+    text-decoration: none;
+    height: 52px;
+    }
+    .mq {
+        text-decoration: none !important;
+        font-size: 15px;
+        color: #FFF;
+        padding-top: 7px;
+        font-style: italic;
+    }
+   .itemm img{
+       width: 240px;
+       height: 240px;
+   }
+    .dealtot{
+        display: none;
+    }
+    .dealtott{
+        display: none;
+    }
+    .deaa{
+        display: none;
+    }
+    .dell{
+        display: none;
+    }
+  
+    .xtc{
+        margin-left: 358px;
+    }
+    .xtcx{
+        margin-left: 358px;
+    }
+    
+    .mlz {
+        margin-left: 10px;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    .ido {
+        margin-top: 14px;
+        font-size: 13px;
+    }
+    .bane {
+        background: #CC0000;
+        width: 100%;
+        height: 40px;
+        margin-left: 0px;
+        margin-top: 1px;
+    }
+    .top {
+        background: #EEEEEE;
+        width: 1343px;
+        height: 150px;
+        margin-top: 22px;
+    }
+    .top {
+        background: #EEEEEE;
+        width: 484px;
+        height: 467px;
+        margin-top: 22px;
+    }
+    .kn {
+        font-weight: 600;
+    margin-left: 72px;
+    margin-top: -450px;
+    font-size: 18px;
+    }
+    .icon {
+        margin-top: -21px;
+        margin-left: -18px;
+    }
+    
+    .ttn {
+        font-weight: 600;
+    font-size: 18px;
+    margin-left: 401px;
+    margin-top: -102px
+    }
+      .vs{
+          margin-left: -68px;
+          margin-top: -14px;
+      }
+      .ms{
+        margin-left: -61px;
+    }
+    #bjc{
+        margin-left: -57px;
+    }
+    .bankk{
+        margin-left: -50px;
+    }
+    .nhapma {
+        font-weight: 600;
+    font-size: 17px;
+    margin-left: 130px;
+    margin-top: 35px;
+    }
+    #mail {
+        border-radius: 10px;
+        position: absolute;
+        margin-left: -728px !important;
+        margin-top: 28px !important;
+    }
+    .send {
+        background: #ffe401;
+    width: 77px;
+    height: 38px;
+    margin-left: 486px;
+    margin-top: 29px;
+    position: relative;
+    z-index: 10;
+    border-radius: 0px 10px 10px 0px;
+    }
+    .sendd {
+        margin-left: 515px;
+        margin-top: -32px !important;
+        font-weight: 500;
+        position: relative;
+        z-index: 11;
+    }
+    .csgh {
+        background: white;
+        width: 100%;
+        height: 284px;
+    }
+    .gh {
+        margin-left: 91px;
+        margin-top: 21px;
+        width: 41% !important;
+
+    }
+    .dtrhang {
+        margin-top: 6px;
+    margin-left: 342px;
+    width: 41% !important;
+    }
+    .tttienloi {
+        margin-left: 85px;
+    margin-top: 0px;
+    width: 41% !important;
+    }
+    .hotro {
+        margin-left: 352px;
+        margin-top: 21px;
+        width: 41% !important;
+    }
+    .foter-reles {
+        background: #EEEEEE;
+        width: 100%;
+        height: 700px;
+    }
+    .htk {
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 10px;
+        margin-top: -675px;
+        margin-left: 21px;
+    }
+    .uutien{
+        margin-top: -2px;
+    margin-left: -39px;
+    }
+    #s2 {
+        margin-left: 220px;
+        width: 260px;
+        height: 204px;
+    }
+    #s3 {
+        margin-left: -5px;
+    margin-top: 135px;
+    width: 260px;
+    height: 204px;
+    }
+    #s4 {
+        margin-left: 174px;
+        margin-top: -204px;
+        width: 260px;
+        height: 204px;
+    }
+    .ttonl {
+        font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-left: -161px;
+    margin-top: 12px;
+    }
+    .online {
+        margin-left: -162px;
+        width: 450px;
+        height: 40px;
+    }
+    .foter-bot {
+        background: #666666;
+        width: 100%;
+        height: 1px;
+        margin-top: 1px;
+        margin-left: 1px;
+    }
+    .top{
+        width: 100%;
+    }
+    .foter-main {
+        background: #666666;
+        width: 100%;
+        height: 1px;                                   
+        margin-top: 41px;
+        margin-left: 1px;
+    }      
+    .wrapper{
+        display: none !important;
+    }   
+    .highlightt{
+        width: 100%;
+    }    
+    .ch{
+        display: none;
+    }
+    .itemm img{
+        width: 100%;
+    }
+    .oaa{
+        font-size: 13px;
+    }
+    .mq{
+        font-size: 13px;
+    }
+    .produc{
+        font-size: 13px;
+        margin-left: 2px;
+    }
+    .lap-1{
+        width: 100%;
+    }        
+    .email{
+        margin-left: 892px;
+    margin-top: -5px;
+    }               
+    .rowo{
+        display: flex;
+        margin: 0px -12px;
+        display: flex;
+        flex-wrap: wrap;
+    }             
+    .hv_2{
+        display: none;
+    }
+    .hv_3{
+        display: none;
+    }
+    .ro_lap {
+        margin-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    }
+ .ro_lapp{
+    display: flex !important;
+    margin: -1px -1px !important;
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100% !important;
+    } 
+    .dareu{
+        background: #fff;
+    width: 38% !important;
+    height: 330px;
+    margin-top: 19px !important;
+    margin-left: 53px !important;
+    border: 1px solid #DDDDDD;
+    }
+    .ueh{
+        background: #fff;
+    width: 38%;
+    height: 330px;
+    margin-top: 11px;
+    margin-left: 53px;
+    border: 1px solid #DDDDDD;
+    }
+}
+
+
+@media (min-width: 800px) and (max-width:1099px){
+     html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+     overflow-x: hidden !important; 
+}
+
+     .img{
+        width: 100% !important;
+    }
+    .wrapper{
+        display: block;
+        max-width: 78% !important;
+    }
+     .waper{
+        width: 100%;
+        margin-left: 70px;
+    }
+    .sale29{
+        opacity: 0;
+    }
+    .sale28{
+        opacity: 0;
+    }
+    img.hs{
+        display: none !important;
+    }
+    img.hx{
+        display: none !important;
+    }
+   
+    .bokk{
+        width: 99%;
+        margin-left: -8px;
+        margin-top: 10px;
+        height: 450px !important;
+    }
+    .mack{
+        margin-left: 22px;
+        margin-top: -60px;
+        width: 96%;
+    }
+   
+    .dcdn {
+        font-size: 15px;
+    }
+    
+    .titles{
+        font-size: 17px;
+    }
+    .title{
+        font-size: 17px;
+    } 
+    .img{
+        width: 100% !important;
+    }
+    .h3, h3 {
+        font-size: 23px;
+
+    }
+    .list{
+        opacity: 0;
+    }
+    .quan{
+        position: fixed;
+        z-index: 99999;
+        margin-top: -166px;
+        width: 0px;
+    height: 100px;
+    }
+    .backroud{
+        background: #EEEEEE;
+        position: fixed;
+        z-index: 99999;
+    width: 100%;
+    height: 100px;
+    margin-top: 36px;
+    }
+    .menutora{
+       display: none !important;
+    }
+ .laptoop{
+        display: none !important;
+    }
+
+    .pcgear{
+        display: none !important;
+    }
+    .apple{
+        display: none !important;
+    }
+    .phukien .pks{
+        display: none !important;
+    }
+    .tainghe{
+        display: none !important;
+    }
+    .ss{
+        display: none !important;
+    }
+    .quangcao{
+        display: none !important;
+    }
+    .rung{
+        display: none !important;
+    } 
+    .ytb{
+        display: none;
+    }
+    .sld{
+        display: none;
+    }
+    .vuaghe{
+        display: none;
+    }
+    .trumlap{
+        display: none;
+    }
+    .giamgia{
+        display: none;
+    }
+    .crou{
+        position: relative;
+        margin-top: -572px !important;
+        margin-left: 0px !important;
+        width: 100% !important;
+        height: 250px !important;
+    }
+     .banertrai{
+        background: white!important;
+    width: 92% !important;
+    border-radius: 10px;
+    height: 400px !important;
+    margin-left: 26px !important;
+    margin-top: 13px !important;
+    cursor: pointer !important;
+    height: 450px !important;
+     }
+    
+     .makair{
+        margin-top: 20px !important;
+        margin-left: 23px; 
+    }
+   
+     img.hs{
+        width: 31% !important;
+    height: 307px !important;
+     }
+     .msg{
+        margin-left: -148px;
+        margin-top: 4px;
+        font-size: 13px;
+     }
+     .smnn {
+        margin-left: -162px !important;
+        margin-top: 5px !important;
+        font-size: 13px !important;
+    }
+     .smn{
+        margin-left: -170px;
+    margin-top: 5px;
+    font-size: 12px;
+     }
+   
+    .iz {
+        margin-left: -175px;
+        margin-top: -20px;
+    }
+    .ix{
+        margin-left: -179px;
+    margin-top: -12px;
+    }
+    .asuss {
+        margin-left: 39px !important;
+        margin-top: -179px !important;
+        font-size: 13px !important;
+    }
+    .asgmm {
+        margin-left: 55px;
+        font-size: 13px;
+    }
+    .pow {
+        margin-left: 40px;
+        margin-top: -12px;
+        width: 100px;
+        height: 76px;
+    }
+    .dhh {
+        margin-left: -161px;
+        margin-top: 83px;
+        font-size: 13px;
+    }
+    .dhg {
+        margin-left: -168px;
+        margin-top: -2px;
+        font-size: 13px;
+    }
+    .iz {
+        margin-left: -175px;
+        margin-top: -20px;
+    }
+
+    .asus {
+        margin-left: 71px;
+        margin-top: -180px;
+        font-size: 13px;
+    }
+    .asgm {
+        margin-left: 68px;
+        font-size: 12px;
+    }
+    .aple {
+        margin-top: -170px;
+        margin-left: 44px;
+        font-size: 13px;
+    }
+    .dcd {
+        margin-left: 42px;
+        font-size: 13px;
+        margin-top: 5px;
+    }
+    .iq {
+        margin-left: 43px;
+        margin-top: -25px;
+        width: 120px;
+        height: 115px;
+    }
+
+     .kedoc{
+        background: #EEEEEE;
+    width: 2px;
+    height: 345px;
+    margin-left: -198px;
+    margin-top: -14px;
+     }
+     .duongke{
+        background: #EEEEEE;
+    width: 376px;
+    height: 2px;
+    margin-left: 14px;
+    margin-top: 186px
+     }
+     .asus{
+        margin-left: 53px;
+        margin-top: -181px;
+        font-size: 13px;
+     }
+     .asgm {
+        margin-left: 48px;
+        font-size: 12px;
+    }
+   
+        .ia {
+    margin-left: 43px;
+    margin-top: -12px;
+    width: 126px;
+    height: 125px;
+}
+    
+    .dh {
+        margin-left: -150px;
+    margin-top: 35px;
+    font-size: 12px;
+    }
+    .dhgm {
+        margin-left: -160px;
+        margin-top: -6px;
+        font-size: 12px;
+    }
+    
+    .mc {
+        margin-top: -161px;
+        margin-left: 44px;
+        font-size: 12px;
+    }
+    .dcdn {
+        margin-top: -7px;
+    font-size: 13px;
+    margin-left: 29px;
+    }
+    .iq {
+        margin-left: 43px;
+        margin-top: -25px;
+        width: 120px;
+        height: 115px;
+    }
+    .banerphai {
+        width: 92% !important;
+    margin-left: 7px !important;
+    margin-top: 13px !important;
+    cursor: pointer !important;
+    height: 450px !important;
+    background: white !important;
+    border-radius: 10px !important;
+    }
+    img.hx{
+        width: 31% !important;
+        height: 307px !important;
+        margin-top: -1px;
+}
+    
+    .smnn {
+    margin-left: -130px !important;
+    margin-top: 5px !important;
+    font-size: 13px !important;
+    }
+    .asuss {
+        margin-left: 39px !important;
+    margin-top: -183px !important;
+    font-size: 13px !important
+    }
+    
+    .pow {
+        margin-left: 40px;
+        margin-top: -12px;
+        width: 100px;
+        height: 76px;
+    }
+    .asgmm {
+        margin-left: 55px;
+        font-size: 13px;
+    }
+    .dhh {
+        margin-left: -159px;
+    margin-top: 87px;
+    font-size: 13px;
+    }
+    .dhg {
+        margin-left: -160px;
+    margin-top: -2px;
+    font-size: 13px;
+    }
+    .aple{
+        margin-top: -170px;
+    margin-left: 44px;
+    font-size: 13px;
+    }
+    .dcd {
+        margin-left: 42px;
+    font-size: 13px;
+    margin-top: 5px;
+    }
+    .highlight {
+        background: #EEEEEE;
+    width: 484px;
+    height: 159px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    width: 96%;
+    }
+    .thanhngang {
+        background: black;
+    width: 3px;
+    height: 22px;
+    margin-left: 21px;
+    margin-top: -22px;
+    }
+    .thuonghieu {
+        color: #333;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    margin-left: 47px;
+    margin-top: -143px;
+    }
+    .thnb {
+        margin-left: 60px;
+    margin-top: 10px;
+    height: 72px;
+    width: 168px;
+    }
+    .MSI {
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-left: 129px;
+        margin-top: 2px;
+    }
+    .thnbb {
+        color: #333;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    margin-left: 250px;
+    margin-top: -99px;
+    width: 168px;
+    height: 72px;
+    }
+    .HP {
+        font-weight: 500;
+    margin-top: 1rem;
+    margin-left: 325px;
+    margin-top: 6px;
+}
+    .thnnb {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 441px;
+        margin-top: -103px;
+        width: 168px;
+        height: 72px;
+    }
+    .LG {
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-left: 522px;
+        margin-top: 6px;
+    }
+    .thhnb {
+        color: #333;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    margin-left: 629px;
+    margin-top: -106px;
+    width: 168px;
+    height: 72px;
+    }
+    .Lenovo {
+        font-weight: 500;
+    margin-top: 1rem;
+    margin-left: 695px;
+    margin-top: 9px;
+    
+    }
+    .navv{
+        display: none;
+    }
+    .ds{
+        display: none;
+    }
+    
+    .cart{
+        display: none;
+    }
+    .ti-vector{
+        display: none;
+    }
+    .phone{
+        display: none;
+    }
+    .logo img{
+        width: 110%;
+        height: 100px;
+        margin-left: -50px;
+        margin-top: 5px;
+    }
+    .iput{
+        margin-top: -3px;
+        margin-left: -30px;
+        width: 300px;       
+    }
+    .iconn{
+        margin-left: 22px;
+        margin-top: 32px;
+    }
+    .ba{
+        display: none !important;
+    }
+    .menutora{
+        display: none;
+    }
+    .quangcao{
+        display: none !important;
+    }
+    input[type=text]{
+            height: 40px !important;
+            background: #fff;
+            padding: 0 20px !important;
+            margin-top: 30px !important;
+            margin-left: 20px !important;
+          width: 110%;
+          border: 1px solid #CCCCCC;
+          outline: none;
+        
+    }
+    .bannerr {
+        background: #CC0000;
+    width: 95%;
+    height: 40px;
+    margin-left: 23px;
+    margin-top: 11px;
+    }
+    .containerr{
+        background: #EEEEEE!important;
+    width: 96%!important;
+    height: 400px!important;
+    margin-left: 18px!important;
+    display: inline-block!important;
+    border-radius: 10px!important;
+    margin-right: 17px !important;
+    }
+    .dz {
+        width: 137% !important;
+    }
+    .dy{
+        width: 137% !important;
+    }
+    .oaa{
+        font-size: 15px;
+    }
+    .ueh{
+        background: #fff;
+        width: 36% !important;
+        height: 330px;
+        margin-top: 11px;
+        margin-left: 71px !important;
+        border: 1px solid #DDDDDD;
+    }
+    .lkdeal {
+        background: #fff;
+        width: 34%;
+        height: 330px;
+        margin-top: 11px;
+        margin-left: -86px;
+        border: 1px solid #DDDDDD;
+    }
+    .asus_g{
+        margin-left: -87px !important;
+    }
+   .w-gold{
+    background: #fff;
+    width: 137% !important;
+    height: 330px;
+    margin-top: 11px !important;
+    margin-left: -85px !important;
+    border: 1px solid #DDDDDD;
+   }
+   .w-black{
+    margin-left: 16px !important;
+    width: 137% !important;
+   }
+    .phuthuoc{
+        margin-top: -20px;
+        width: 105%;
+    } 
+    .sonic{
+        display: block !important;
+    background: #fff;
+    width: 37%;
+    height: 330px;
+    margin-top: 11px;
+    margin-left: 48px !important;
+    border: 1px solid #DDDDDD;
+    }
+    .lkdeall {
+       display: block;
+       margin-left: -14px !important; 
+       width: 100%;
+    }
+    
+    .mixz {
+        margin-left: -6px;
+    }
+    .lkdealz {
+        background: #fff;
+    width: 34%;
+    height: 330px;
+    margin-top: 12px;
+    margin-left: 16px;
+    border: 1px solid #DDDDDD;
+    }
+    .microsoft_lap{
+        margin-left: -78px !important;
+        height: 330px;
+    }
+    .acer-g{
+        margin-left: 16px !important;
+
+    }
+    .dareu{
+        background: #fff;
+        width: 36% !important;
+        height: 330px;
+        margin-top: 19px !important;
+        margin-left: 70px !important;
+        border: 1px solid #DDDDDD !important;
+    }
+    .item{
+        margin-left: 18px;
+    margin-top: -8px;
+    width: 97%;
+    }
+    .tensp {
+        font-size: 15px;
+        margin-left: 15px;
+        margin-top: 0px;
+    }
+    .logitech{
+        display: block !important;
+        background: #fff;
+    width: 37%;
+    height: 330px;
+    margin-top: -330px;
+    margin-left: 457px;
+    border: 1px solid #DDDDDD;
+    }
+    
+    .col-md-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 100% !important;
+    }
+    .item img{
+        width: 79% !important;
+    }
+    /* .lkdealk {
+       display: none;
+    } */
+        .ui {
+            background: #CC0000;
+            width: 95%;
+            height: 40px;
+            margin-left: 23px;
+            margin-top: 2px;
+        }
+        .dealhotht {
+            background: #EEEEEE;
+            width: 96%;
+            height: 720px !important;
+            margin-left: 17px;
+            display: inline-block;
+            border-radius: 10px;
+        }
+    .hv_2{
+        display: none;
+    }
+    .hv_3{
+        display: none;
+    }
+    .tenlt {
+        background: white;
+    width: 105.3%;
+    height: 117px;
+    display: block;
+    margin-top: -2px;
+    margin-left: -16px;
+    position: relative;
+    z-index: 9;
+    }
+    .opacti {
+        background: none repeat scroll 0 0 rgba(121, 117, 101, 0.8);
+    bottom: -100px;
+    color: #fff!important;
+    font-size: 13px;
+    left: 0;
+    padding: 10px;
+    width: 99.5% !important;
+    position: absolute;
+    transition: bottom 0.5s ease 0s;
+    width: 100%;
+    text-decoration: none;
+    height: 52px;
+    }
+    .mq {
+        text-decoration: none !important;
+        font-size: 12px;
+        color: #FFF;
+        padding-top: 7px;
+        font-style: italic;
+    }
+   .itemm img{
+       width: 240px;
+       height: 240px;
+   }
+    .dealtot{
+        display: none;
+    }
+    .dealtott{
+        display: none;
+    }
+    .deaa{
+        display: none;
+    }
+    .dell{
+        display: none;
+    }
+  
+    .xtc{
+        display: none;
+    }
+    .xtcx{
+       display: none;
+    }
+    
+    .mlz {
+        margin-left: 10px;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    .ido {
+        margin-top: 14px;
+        font-size: 13px;
+    }
+    .bane {
+        background: #CC0000;
+        width: 100%;
+        height: 40px;
+        margin-left: 0px;
+        margin-top: 1px;
+    }
+    .top {
+        background: #EEEEEE;
+        width: 1343px;
+        height: 150px;
+        margin-top: 22px;
+    }
+    .top {
+        background: #EEEEEE;
+        width: 484px;
+        height: 467px;
+        margin-top: 22px;
+    }
+    .kn {
+        font-weight: 600;
+        margin-left: 151px;
+        margin-top: -450px;
+        font-size: 18px;
+    }
+    .icon {
+        margin-top: -21px;
+    margin-left: 61px;
+    }
+    
+    .ttn {
+        font-weight: 600;
+    font-size: 18px;
+    margin-left: 493px;
+    margin-top: -102px;
+    }
+      .vs{
+        margin-left: 32px;
+        margin-top: -14px;
+      }
+      .ms{
+        margin-left: 38px;
+    }
+    #bjc{
+        margin-left: 45px;
+    }
+    .bankk{
+        margin-left: 52px;
+    }
+    .nhapma {
+        font-weight: 600;
+    font-size: 17px;
+    margin-left: 204px;
+    margin-top: 35px;
+    }
+    #mail {
+        border-radius: 10px;
+    position: absolute;
+    margin-left: -651px !important;
+    margin-top: 28px !important;
+    }
+    .send {
+        background: #ffe401;
+    width: 77px;
+    height: 38px;
+    margin-left: 563px;
+    margin-top: 29px;
+    position: relative;
+    z-index: 10;
+    border-radius: 0px 10px 10px 0px;
+    }
+    .sendd {
+        margin-left: 589px;
+    margin-top: -32px !important;
+    font-weight: 500;
+    position: relative;
+    z-index: 11;
+    }
+    .csgh {
+        background: white;
+        width: 100%;
+        height: 284px;
+    }
+    .gh {
+        margin-left: 91px;
+        margin-top: 21px;
+        width: 41% !important;
+
+    }
+    .dtrhang {
+        margin-top: -9px;
+    margin-left: 473px;
+    width: 41% !important;
+    }
+    .tttienloi {
+        margin-left: 85px;
+    margin-top: -25px;
+    width: 41% !important;
+    }
+    .hotro {
+        margin-left: 486px;
+    margin-top: -14px;
+    width: 41% !important;
+    }
+    .foter-reles {
+        width: 100%;
+        height: 311px;
+        background: rgb(238, 238, 238);
+    }
+    .htk {
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 10px;
+        margin-top: -675px;
+        margin-left: 21px;
+    }
+    .uutien{
+        margin-top: -2px;
+    margin-left: -39px;
+    }
+    #s2 {
+        margin-left: 220px;
+        width: 260px;
+        height: 204px;
+    }
+    #s3 {
+        margin-left: 482px;
+        margin-top: -205px;
+        width: 260px;
+        height: 204px;
+    }
+    #s4 {
+        margin-left: 693px;
+    margin-top: -204px;
+    width: 260px;
+    height: 204px;
+    }
+    .ttonl {
+        font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-left: -653px;
+    margin-top: -62px
+    }
+    .online {
+        margin-left: -649px;
+    width: 450px;
+    height: 40px;
+    }
+    .foter-bot {
+        background: #666666;
+        width: 100%;
+        height: 1px;
+        margin-top: 1px;
+        margin-left: 1px;
+    }
+    .top{
+        width: 100%;
+    }
+    .foter-main {
+        background: #666666;
+        width: 100%;
+        height: 1px;                                   
+        margin-top: 41px;
+        margin-left: 1px;
+    }      
+    .wrapper{
+        display: block;
+        max-width: 82% !important;
+    }   
+    .waper{
+        width: 100%;
+    }
+    .highlightt{
+        width: 100%;
+    }    
+    .lap-1{
+        width: 100%;
+    }        
+    .email{
+        margin-left: 892px;
+    margin-top: -5px;
+    }    
+    .roww{
+        width: 862px;
+        height: 690px;
+    } 
+    #s1 {
+        width: 245px;
+        height: 204px;
+        margin-top: 382px;
+    }
+    .ro_lap {
+        display: flex;
+    margin-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    }
+    .ro_laap {
+        display: flex;
+    margin-left: 112px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    }
+ .ro_lapp{
+    display: flex !important;
+    margin: -1px -1px !important;
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100% !important;
+    } 
+    .ro_sale{
+        display: flex !important;
+        margin: 0px 45px !important;
+        display: flex !important;
+        flex-wrap: wrap !important;
+    } 
+            
+
+}
+
+
+@media (min-width: 1361px){
+    html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+     overflow-x: hidden !important; 
+}
+    .crou {
+        width: 698px;
+        height: 300px;
+        margin-left: 319px !important;
+        margin-top: -518px;
+    }
+    .vuaghe {
+        margin-left: 320px;
+        width: 26%;
+    }
+    .trumlap {
+        margin-left: 666px;
+        margin-top: -169px;
+        width: 26%;
+    }
+    .ytb {
+        margin-left: 1017px;
+        margin-top: -518px;
+        width: 21%;
+    }
+    .acer-g {
+        width: 92%;
+        margin-left: 61px !important;
+    }
+    .sld {
+        margin-left: 1013px;
+        margin-top: -8px;
+        cursor: pointer;
+        width: 21%;
+    }
+    .giamgia {
+        margin-left: 1013px;
+        margin-top: -172px;
+        width: 26%;
+    }
+    .phone {
+        background: white;
+        border: 1px solid #CCCCCC;
+        width: 40px;
+        height: 38px;
+        border-radius: 22px;
+        margin-left: -178px;
+        margin-top: 30px;
+    }
+    .rowo {
+        display: flex;
+        margin: 0px 24px !important;
+    }
+    .deal2 {
+        display: inline-block !important;
+        margin: 0 50px;
+    }
+    .row{
+        margin: 0 21px !important;
+    }
+    .w-black {
+        margin-left: 57px;
+    }
+    .garmin {
+        margin-left: 29px;
+    }
+    .vivofit {
+        margin-left: 30px;
+    }
+    .dealtott {
+        margin-left: 300px;
+        margin-top: -364px !important;
+    }
+    .w-pink {
+        margin-left: 34px;
+        width: 92% !important;
+    }
+    .vivo-hr {
+        width: 92% !important;
+        margin-left: 40px;
+    }
+    .w-gold {
+        margin-left: 64px;
+    }
+    .surface {
+        width: 92%;
+        margin-left: 40px;
+    }
+    .asus-g {
+        width: 92%;
+        margin-left: 30px;
+    }
+    .acer-g {
+        width: 92%;
+        margin-left: 31px;
+    }
+    .asus-tuf {
+        width: 92%;
+        margin-left: 29px;
+    }
+}
+
+@media (min-width: 1100px) and (max-width: 1250px){
+    html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+     overflow-x: hidden !important; 
+}
+    .sale28{
+        display: none;
+    }
+    .sale29{
+        display: none;
+    }
+    .wrapper {
+        margin-top: 40px;
+        background-color: #DDDDDD;
+        height: 40px;
+        width: 100%;
+    }
+    input[type=text] {
+        height: 40px !important;
+        background: #fff;
+        padding: 0 20px !important;
+        margin-top: 30px !important;
+        margin-left: 44px !important;
+        width: 97%;
+        border: 1px solid #CCCCCC;
+    }
+    .iconn {
+        margin-left: 4px;
+        margin-top: 35px;
+        font-size: 22px;
+        color: red;
+    }
+    .tt {
+        font-size: 13px;
+        margin-top: 10px;
+        margin-left: 23px;
+    }
+    .phone {
+        background: white;
+        border: 1px solid #CCCCCC;
+        width: 40px;
+        height: 38px;
+        border-radius: 22px;
+        margin-left: -155px;
+        margin-top: 30px;
+    }
+    .signin {
+        border: 1px solid #CCCCCC;
+        border-radius: 5px;
+        width: 13.3%;
+        height: 60px;
+        margin-left: 151px;
+        margin-top: 18px;
+        font-size: 15px;
+        cursor: pointer;
+    }
+    .signup {
+        margin-top: 18px;
+        margin-bottom: 1rem;
+        font-size: 13px;
+        margin-left: 12px;
+    }
+    .ti-user {
+        margin-left: 133px;
+        margin-top: -34px;
+        float: left;
+        color: red;
+    }
+    .cart {
+        border-radius: 5px;
+        border: 1px solid #CCCCCC;
+        width: 11%;
+        height: 60px;
+        margin-top: 18px;
+        margin-left: 19px;
+        cursor: pointer;
+    }
+    .vuive {
+        margin-top: 18px;
+        margin-bottom: 1rem;
+        font-size: 13px;
+    }
+    .ti-shopping-cart-full {
+        float: left;
+        margin-left: 99px;
+        margin-top: -34px;
+        color: red;
+    }
+    .menuu {
+        background: #FFCC33;
+        height: 48px;
+        width: 230px;
+        margin-left: 72px;
+    }
+    .list {
+        background: #EEEEEE;
+        border: 1px solid #DDDDDD;
+        height: 518px;
+        width: 230px;
+        margin-left: 0px;
+        margin-top: 7px;
+    }
+    .layout_padding {
+        width: 970px;
+        margin-top: 239px;
+        height: 518px !important;
+        margin-left: 71px;
+    }
+    .prime_layout {
+        display: flex;
+     /* align-items: end; */
+       justify-content: flex-start;
+        padding-left: 0px;
+        padding-right: 0;
+        padding-bottom: 10px;
+        height: 765px;
+    }
+    .crou {
+        width: 698px;
+        height: 300px;
+        margin-left: 230px !important;
+        margin-top: 7px !important;
+    }
+    .ytb{
+        display: none !important;
+    }
+    .sld{
+        display: none;
+    }
+    .giamgia{
+        display: none;
+    }
+    .vuaghe {
+        margin-left: 18px;
+        width: 36%;
+        margin-top: 356px;
+        height: 172px;
+    }
+    .trumlap {
+        margin-left: 2px;
+        width: 36%;
+        margin-top: 356px;
+        height: 172px;
+    }
+    .col-md-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 100% !important;
+    }
+    .imaage{
+        display: none !important;
+    }
+    .image{
+        margin-left: 30px;
+    }
+     .image-s1{
+margin-left: 80px;
+    } 
+    .image-s2{
+        margin-left: 80px;
+            } 
+    .xtc {
+        color: #BBBBBB;
+        margin-top: -24px;
+        margin-left: 378px;
+        cursor: pointer;
+        font-size: 13px;
+    }
+    .xtcx {
+        color: #BBBBBB;
+        margin-top: -24px;
+        margin-left: 404px;
+        cursor: pointer;
+        font-size: 13px;
+    }
+    .thnb {
+        margin-left: 75px;
+        margin-top: 16px;
+        width: 20%;
+  
+    }
+    .thnbb{
+        width: 20%;
+        margin-left: 343px;
+     
+    }
+    .thnnb{
+        width: 20%;
+  
+        margin-left: 610px;
+    }
+    .thhnb{
+        width: 20%;
+  
+        margin-left: 872px !important;
+    }
+    .item img{
+        width: 100%;
+    }
+    .mixz {
+        margin-left: 4px;
+    }
+    .dz {
+        width: 87%;
+        height: 322px;
+    }
+    .phuthuoc {
+        width: 112.5%;
+        margin-left: 0px;
+        margin-top: -28px;
+    }
+    .itemm {
+        margin-left: -5px;
+        margin-top: -332px;
+        width: 100%;
+    }
+    .dy{
+        height: 322px;
+    }
+    #dk{
+        width: 100%;
+    }
+    #dc {
+        width: 100%;
+        margin-top: 34px;
+        height: 170px;
+    }
+     .hv:hover .opacti{
+        bottom: -5px !important;
+        transition: bottom 0.5s ease 0s;
+     }
+     /* .lkdeal:hover .opacti{
+        bottom: -20px !important;
+        transition: bottom 0.5s ease 0s!important;
+     }
+     .lkdealz:hover .opacti{
+        bottom: -20px !important;
+        transition: bottom 0.5s ease 0s!important;
+     }
+     .lkdeall:hover .opacti{
+        bottom: -20px !important;
+        transition: bottom 0.5s ease 0s!important;
+     }
+     .lkdealk:hover .opacti{
+        bottom: -20px !important;
+        transition: bottom 0.5s ease 0s!important;
+     } */
+     .opacti {
+        background: none repeat scroll 0 0 rgba(121, 117, 101, 0.8);
+        bottom: -103px !important;
+        color: #fff!important;
+        font-size: 12px;
+        left: -1px;
+        padding: 10px;
+        width: 267px !important;
+        position: absolute;
+        transition: bottom 0.5s ease 0s;
+        width: 100% !important;
+        text-decoration: none;
+        height: 55px;
+    }
+    .opacti_apple{
+        background: none repeat scroll 0 0 rgba(121, 117, 101, 0.8);
+        bottom: -72px !important;
+        color: #fff!important;
+        font-size: 12px;
+        left: -1px;
+        padding: 10px;
+        width: 267px !important;
+        position: absolute;
+        transition: bottom 0.5s ease 0s;
+        width: 100% !important;
+        text-decoration: none;
+        height: 55px;
+    }
+    .opacti_vivo{
+        background: none repeat scroll 0 0 rgba(121, 117, 101, 0.8);
+        bottom: -105px !important;
+        color: #fff!important;
+        font-size: 12px;
+        left: -1px;
+        padding: 10px;
+        width: 267px !important;
+        position: absolute;
+        transition: bottom 0.5s ease 0s;
+        width: 100% !important;
+        text-decoration: none;
+        height: 55px;
+    }
+    .hv:hover .opacti_vivo{
+        bottom: -17px !important;
+        transition: bottom 0.5s ease 0s;
+    }
+    .hv:hover .opacti_apple{
+        bottom: 23px !important;
+        transition: bottom 0.5s ease 0s;
+    }
+    .mq {
+        text-decoration: none !important;
+        font-size: 14px !important;
+        color: #FFF;
+        padding-top: 7px;
+        font-style: italic;
+    }
+    .tenlt{
+        font-size: 13px;
+        /* width: 101.1px; */
+    }
+    .mlz{
+        font-size: 14px;
+    }
+    .tenlt {
+        background: white;
+        width: 101.4%;
+        height: 117px;
+        display: block;
+        margin-top: 0px;
+        margin-left: -16px;
+        position: relative;
+        z-index: 9;
+    }
+    .produc{
+        margin-left: 8px;
+    }
+    .gh {
+        margin-left: 18px;
+        margin-top: -49px;
+    }
+    .dtrhang {
+        margin-top: 75px;
+        margin-left: -23px;
+    }
+    .tttienloi {
+        margin-left: -38px;
+        margin-top: -47px;
+    }
+    .hotro {
+        margin-left: -41px;
+        margin-top: 81px;
+    }
+    #s4 {
+        margin-left: 833px;
+        margin-top: -204px;
+        width: 260px;
+        height: 204px;
+    }
+    .duoi .trai .lop1 {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        margin-top: 3px;
+        margin-left: 15px;
+        z-index: 1;
+        color: red;
+        font-weight: bold;
+        font-size: 15px;
+        transition: 0.4s;
+    }
+    .ch {
+        margin-left: 128px;
+        margin-top: 11px !important;
+        font-size: 13px;
+    }
+
+}

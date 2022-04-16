@@ -1,0 +1,699 @@
+@media (max-width: 740px) {
+    .img{
+        display: none;
+    }
+    .quan{
+        background: #EEEEEE;
+        position: fixed;
+        z-index: 99999;
+        margin-top: -73px;
+        width: 484px;
+        height: 100px;
+    }
+    .backroud{
+        background: #EEEEEE;
+        position: fixed;
+        z-index: 99999;
+    width: 484px;
+    height: 100px;
+    margin-top: 1px;
+    }
+    .menutora{
+       display: none !important;
+    }
+ .laptoop{
+        display: none !important;
+    }
+
+    .pcgear{
+        display: none !important;
+    }
+    .apple{
+        display: none !important;
+    }
+    .phukien .pks{
+        display: none !important;
+    }
+    .tainghe{
+        display: none !important;
+    }
+    .ss{
+        display: none !important;
+    }
+    .quangcao{
+        display: none !important;
+    }
+    .rung{
+        display: none !important;
+    } 
+    .ytb{
+        display: none;
+    }
+    .sld{
+        display: none;
+    }
+    .vuaghe{
+        display: none;
+    }
+    .trumlap{
+        display: none;
+    }
+    .giamgia{
+        display: none;
+    }
+    .crou{
+        margin-top: -660px !important;
+        margin-left: 0px !important;
+        width: 484px !important;
+        height: 250px !important;
+    }
+     .banertrai{
+        background: white!important;
+    width: 469px !important;
+    border-radius: 10px;
+    height: 400px !important;
+    margin-left: 7px !important;
+    margin-top: 13px !important;
+    cursor: pointer !important;
+     }
+     .mack{
+        background: #EEEEEE!important;
+    width: 484px!important;
+    height: 841px!important;
+    margin-left: 2px!important;
+    margin-top: -417px!important;
+    border-radius: 10px!important;
+     }
+     .makair{
+        position: relative;
+        overflow: hidden;
+        flex: 1 0 auto;
+        display: flex;
+        cursor: unset;
+        z-index: 0;
+        margin: auto;
+        border-radius: 0px;
+        padding-bottom: 5%;
+        width: 100%;
+        margin-top: -60px !important;
+     }
+     img.hs{
+        width: 141px !important;
+    height: 307px !important;
+     }
+     .msg{
+        margin-left: -118px;
+    margin-top: 4px;
+    font-size: 13px;
+     }
+     .smn{
+        margin-left: -138px;
+    margin-top: 5px;
+    font-size: 12px;
+     }
+     .ix{
+        margin-left: -133px;
+    margin-top: -12px;
+    width: 100px;
+    height: 95px;
+     }
+     .kedoc{
+        background: #EEEEEE;
+    width: 2px;
+    height: 345px;
+    margin-left: -225px;
+    margin-top: -14px;
+     }
+     .duongke{
+        background: #EEEEEE;
+    width: 376px;
+    height: 2px;
+    margin-left: -1px;
+    margin-top: 144px;
+     }
+     .asus{
+        margin-left: 53px;
+        margin-top: -145px;
+        font-size: 13px;
+     }
+     .asgm {
+        margin-left: 48px;
+        font-size: 12px;
+    }
+    .ia {
+        margin-left: 43px;
+        margin-top: -12px;
+        width: 100px;
+        height: 100px;
+    }
+    .dh {
+        margin-left: -120px;
+        margin-top: 20px;
+        font-size: 12px;
+    }
+    .dhgm {
+        margin-left: -128px;
+        margin-top: -6px;
+        font-size: 12px;
+    }
+    .iz {
+        margin-left: -121px;
+    margin-top: -20px;
+    width: 100px;
+    height: 105px;
+    }
+    .mc {
+        margin-top: -134px;
+    margin-left: 44px;
+    font-size: 12px;
+    }
+    .dcdn {
+        margin-top: -7px;
+        font-size: 13px;
+        margin-left: 29px;
+    }
+    .iq {
+        margin-left: 43px;
+        margin-top: -25px;
+        width: 100px;
+        height: 100px;
+    }
+    .banerphai {
+        background: white !important;
+    border-radius: 10px !important;
+    width: 468px !important;
+    height: 400px !important;
+    margin-left: -468px !important;
+    margin-top: 419px !important;
+    cursor: pointer !important;
+    }
+    img.hx{
+        width: 141px !important;
+        height: 307px !important;
+        margin-top: -1px;
+}
+    
+    .smnn {
+    margin-left: -130px !important;
+    margin-top: 5px !important;
+    font-size: 13px !important;
+    }
+    .asuss {
+        margin-left: 39px !important;
+        margin-top: -145px !important;
+        font-size: 13px !important;
+    }
+    
+    .pow {
+        margin-left: 40px;
+        margin-top: -12px;
+        width: 100px;
+        height: 76px;
+    }
+    .asgmm {
+        margin-left: 55px;
+        font-size: 13px;
+    }
+    .dhh {
+        margin-left: -128px;
+    margin-top: 36px;
+    font-size: 13px;
+    }
+    .dhg {
+        margin-left: -132px;
+    margin-top: -2px;
+    font-size: 13px;
+    }
+    .aple{
+        margin-top: -140px;
+        margin-left: 44px;
+        font-size: 13px;
+    }
+    .dcd {
+        margin-left: 42px;
+    font-size: 13px;
+    margin-top: 5px;
+    }
+    .highlight {
+        background: #EEEEEE;
+    width: 484px;
+    height: 159px;
+    margin-left: 1px;
+    margin-top: 20px;
+    border-radius: 10px;
+    }
+    .thanhngang {
+        background: black;
+        width: 3px;
+        height: 22px;
+        margin-left: 3px;
+        margin-top: -22px;
+    }
+    .thuonghieu {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 20px;
+        margin-top: -136px;
+    }
+    .thnb {
+        margin-left: 14px;
+        margin-top: 16px;
+        width: 95px;
+        height: 55px;
+    }
+    .MSI {
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-left: 48px;
+        margin-top: 10px;
+    }
+    .thnbb {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 135px;
+        margin-top: -90px;
+        width: 95px;
+        height: 55px;
+    }
+    .HP {
+        font-weight: 500;
+    margin-top: 1rem;
+    margin-left: 172px;
+    margin-top: 9px;
+    }
+    .thnnb {
+        color: #333;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        margin-left: 257px;
+    margin-top: -89px;
+        width: 95px;
+        height: 55px;
+    }
+    .LG {
+        font-weight: 500;
+    margin-top: 1rem;
+    margin-left: 295px;
+    margin-top: 10px;
+    }
+    .thhnb {
+        color: #333;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    margin-left: 378px;
+    margin-top: -89px;
+    width: 95px;
+    height: 55px
+    }
+    .Lenovo {
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-left: 401px;
+        margin-top: 9px;
+    
+    }
+    .navv{
+        display: none;
+    }
+    .ds{
+        display: none;
+    }
+    .signin{
+        display: none;
+    }
+    .cart{
+        display: none;
+    }
+    .ti-vector{
+        display: none;
+    }
+    .phone{
+        display: none;
+    }
+    .logo img{
+        width: 130px;
+        height: 100px;
+        margin-left: -50px;
+        margin-top: 5px;
+    }
+    .iput{
+        margin-top: -3px;
+        margin-left: -30px;
+        width: 300px;       
+    }
+    .iconn{
+        margin-left: 50px;
+        margin-top: 32px;
+    }
+    .ba{
+        display: none !important;
+    }
+    .menutora{
+        display: none;
+    }
+    .quangcao{
+        display: none !important;
+    }
+    input[type=text]{
+            height: 40px !important;
+            background: #fff;
+            padding: 0 20px !important;
+            margin-top: 30px !important;
+            margin-left: 35px !important;
+          width: 348px;
+          border: 1px solid #CCCCCC;
+          outline: none;
+        
+    }
+    .bannerr {
+        background: #CC0000;
+    width: 484px;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 11px;
+    }
+    .containerr{
+        background: #EEEEEE!important;
+        width: 484px!important;
+        height: 707px!important;
+        margin-left: 0px!important;
+        display: inline-block!important;
+        border-radius: 10px!important;
+    }
+    .lkdeal {
+        background: #fff;
+        width: 243px;
+        height: 330px;
+        margin-top: 0px;
+        margin-left: 14px;
+        border: 1px solid #DDDDDD;
+    }
+    .itemm {
+        margin-left: -17px;
+        margin-top: -359px;
+    }
+    .lkdeall {
+        background: #fff;
+    width: 243px;
+    height: 330px;
+    margin-top: -330px;
+    margin-left: 256px;
+    border: 1px solid #DDDDDD;
+    }
+    .mixz {
+        margin-left: -6px;
+    }
+    .lkdealz {
+        background: #fff;
+    width: 243px;
+    height: 330px;
+    margin-top: 19px;
+    margin-left: 15px;
+    border: 1px solid #DDDDDD;
+    }
+    .item{
+        margin-left: -6px;
+    margin-top: -8px;
+    }
+    .tensp {
+        font-size: 15px;
+        margin-left: 15px;
+        margin-top: 0px;
+    }
+    .lkdealk {
+        background: #fff;
+    width: 243px;
+    height: 330px;
+    margin-top: -330px;
+    margin-left: 258px;
+    border: 1px solid #DDDDDD;
+    }
+    .ui {
+        background: #CC0000;
+    width: 484px;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 2px;
+    }
+    .dealhotht {
+        background: #EEEEEE;
+    width: 484px;
+    height: 720px !important;
+    margin-left: 2px;
+    display: inline-block;
+    border-radius: 10px;
+    }
+    .tenlt {
+        background: white;
+        width: 243px;
+        height: 117px;
+        display: block;
+        margin-top: 0px;
+        margin-left: -16px;
+        position: relative;
+        z-index: 9;
+    }
+    .opacti {
+        background: none repeat scroll 0 0 rgba(121, 117, 101, 0.8);
+    bottom: -100px;
+    color: #fff!important;
+    font-size: 13px;
+    left: 0;
+    padding: 10px;
+    width: 237px !important;
+    position: absolute;
+    transition: bottom 0.5s ease 0s;
+    width: 100%;
+    text-decoration: none;
+    height: 52px;
+    }
+    .mq {
+        text-decoration: none !important;
+        font-size: 12px;
+        color: #FFF;
+        padding-top: 7px;
+        font-style: italic;
+    }
+   .itemm img{
+       width: 240px;
+       height: 240px;
+   }
+    .dealtot{
+        display: none;
+    }
+    .dealtott{
+        display: none;
+    }
+    .deaa{
+        display: none;
+    }
+    .dell{
+        display: none;
+    }
+  
+    
+    
+    .mlz {
+        margin-left: 10px;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    .ido {
+        margin-top: 14px;
+        font-size: 13px;
+    }
+    .bane {
+        background: #CC0000;
+        width: 484px;
+        height: 40px;
+        margin-left: 0px;
+        margin-top: 1px;
+    }
+    .top {
+        background: #EEEEEE;
+        width: 1343px;
+        height: 150px;
+        margin-top: 22px;
+    }
+    .top {
+        background: #EEEEEE;
+        width: 484px;
+        height: 467px;
+        margin-top: 22px;
+    }
+    .kn {
+        font-weight: 600;
+    margin-left: 7px;
+    margin-top: -450px;
+    font-size: 18px;
+    }
+    .icon {
+        margin-top: -21px;
+        margin-left: -67px;
+    }
+    
+    .ttn {
+        font-weight: 600;
+    font-size: 18px;
+    margin-left: 274px;
+    margin-top: -102px
+    }
+      .vs{
+          margin-left: -183px;
+          margin-top: -14px;
+      }
+      .ms{
+        margin-left: -183px;
+    }
+    #bjc{
+        margin-left: -183px;
+    }
+    .bankk{
+        margin-left: -183px;
+    }
+    .nhapma {
+        font-weight: 600;
+    font-size: 17px;
+    margin-left: 12px;
+    margin-top: 35px;
+    }
+    #mail {
+        border-radius: 10px;
+        position: absolute;
+        margin-left: -728px !important;
+        margin-top: 28px !important;
+    }
+    .send {
+        background: #ffe401;
+    width: 77px;
+    height: 38px;
+    margin-left: 372px;
+    margin-top: 29px;
+    position: relative;
+    z-index: 10;
+    border-radius: 0px 10px 10px 0px;
+    }
+    .sendd {
+        margin-left: 397px;
+        margin-top: -32px !important;
+        font-weight: 500;
+        position: relative;
+        z-index: 11;
+    }
+    .csgh {
+        background: white;
+        width: 484px;
+        height: 284px;
+    }
+    .gh {
+        margin-left: -3px;
+    margin-top: 26px;
+    }
+    .dtrhang {
+        margin-top: 14px;
+    margin-left: 218px;
+    }
+    .tttienloi {
+        margin-left: -5px;
+    margin-top: 0px;
+    }
+    .hotro {
+        margin-left: 220px;
+    margin-top: 21px;
+    }
+    .foter-reles {
+        background: #EEEEEE;
+        width: 484px;
+        height: 700px;
+    }
+    .htk {
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 10px;
+        margin-top: -675px;
+        margin-left: 21px;
+    }
+    .uutien{
+        margin-top: -2px;
+    margin-left: -39px;
+    }
+    #s2 {
+        margin-left: 220px;
+        width: 260px;
+        height: 204px;
+    }
+    #s3 {
+        margin-left: -5px;
+    margin-top: 135px;
+    width: 260px;
+    height: 204px;
+    }
+    #s4 {
+        margin-left: 174px;
+        margin-top: -204px;
+        width: 260px;
+        height: 204px;
+    }
+    .ttonl {
+        font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-left: -161px;
+    margin-top: 12px;
+    }
+    .online {
+        margin-left: -162px;
+        width: 450px;
+        height: 40px;
+    }
+    .foter-bot {
+        background: #666666;
+        width: 484px;
+        height: 1px;
+        margin-top: 1px;
+        margin-left: 1px;
+    }
+    .foter-main {
+        background: #666666;
+        width: 484px;
+        height: 1px;
+        margin-top: 41px;
+        margin-left: 1px;
+    }
+   #three{
+         display: none;
+   }
+   .main {
+    background: white;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 96px;
+}
+}

@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=vietnamese" rel="stylesheet">
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link rel="stylesheet" href="style.css">
+	<script src="index.js"></script>
+	<title>Chi tiết sản phẩm</title>
+</head>
+<body>
+	<div class="menu-ngang">
+				<div id="test"></div>
+				<div id="box" class="login-box">
+					<form action="">
+					<i id="cancel" class="far fa-times-circle"></i>
+					<h1>Đăng nhập</h1>
+					<div class="textbox">
+						<i class="fas fa-user"></i>
+						<input type="text" placeholder="Username">
+					</div>
+					<div class="textbox">
+						<i class="fas fa-lock"></i>
+						<input type="password" placeholder="Password">
+					</div>
+						<a href="#">
+							<input type="button" class="btn1" name="" value="Sign in" >
+						</a>
+					</form>
+				</div>
+				<!-- end login -->
+
+				<div id="box2" class="login-box register-box">
+					<form action="">
+					<i id="cancel2" class="far fa-times-circle"></i>
+					<h1>Đăng ký</h1>
+					<div class="1-muc">
+						<div class="textbox">
+							<i class="fas fa-user"></i>
+							<input type="text" placeholder="Tên đăng nhập">
+						</div>
+						<div class="textbox">
+							<i class="far fa-envelope"></i>
+							<input type="email" placeholder="Email">
+						</div>
+					</div>	
+					<div class="textbox">
+						<i class="fas fa-phone"></i>
+						<input type="text" placeholder="Số điện thoại">
+					</div>
+					<div class="textbox">
+						<i class="fas fa-address-card"></i>
+						<input type="text" placeholder="Địa chỉ">
+					</div>
+					<div class="textbox">
+						<i class="fas fa-birthday-cake"></i>
+						<input type="text" placeholder="Ngày sinh">
+					</div><div class="textbox">
+						<i class="fas fa-lock"></i>
+						<input type="password" placeholder="Mật khẩu">
+					</div><div class="textbox">
+						<i class="fas fa-user-lock"></i>
+						<input type="password" placeholder="Xác nhận mật khẩu">
+					</div>
+					<div class="button dangky">
+						<a href="#">
+							<input type="button" class="btn1" name="" value="Đăng ký" >
+						</a>
+					</div>	
+					</form>
+				</div>
+				<!-- end register -->
+			</div>  <!-- end menu-nagng -->
+	<nav class="navbar navbar-default navbar-inverse" role="navigation">
+		<div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				
+				<a class="navbar-brand" href="#"><img src="image/Prime_World_logo.png" width="110" height="75" class="imgg"></a>
+			</div>
+			<!-- search -->
+			<form class="navbar-form navbar-left" role="search">
+					<div class="form-group">
+						<input type="text" class="form-control" placeholder="Nhập tên sản phẩm">
+					</div>
+					<button type="submit" class="btn btn-default"><i class="fas fa-search"></i></button>
+			</form>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse navbar-ex1-collapse">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#">Tin tức</a></li>
+					<li><a href="#"id="login">Đăng nhập</a></li>
+					<li><a href="#" id="register">Đăng ký</a></li>
+					<li><a href="#" class="contactmenu">Liên hệ</a></li>
+					<li>
+						<a href="#"><i class="fas fa-shopping-cart" style="color: #ffffffdb; padding-right: 5px"></i>Giỏ hàng</a>
+					</li>
+				</ul>
+			</div><!-- /.navbar-collapse -->
+		</div>
+	</nav>
+
+
+<div class="container">
+	<div class="row menu-top">
+		<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 list-home ">
+			<div class="danhmuc">
+					<i class="fas fa-bars"></i>
+					<h2>DANH MỤC SẢN PHẨM</h2>
+					<div class="list-product">
+						<ul class="list-group">
+							<li class="list-group-item product">
+								<a href="">Linh kiện máy tính </a>
+								<ul class="detailproduct">
+									<li>
+										<a href="" class="demo">
+											<span class="img"><img src="http://xuanvinh.vn/uploads/intel_broadwell_e_cpu_6.jpg" alt="" width="150px" height="150px"></span>
+											<span class="text">CPU - Bộ vi xử lý</span>
+										</a>
+									</li>
+									<li>
+										<a href="" class="demo">
+											<span class="img"><img src="http://xuanvinh.vn/uploads/20150910171024_big1.png" alt="" width="150px" height="150px"></span>
+											<span class="text">MAINBOARD </span>
+										</a>
+									</li>
+									<li>
+										<a href="" class="demo">
+											<span class="img"><img src="http://xuanvinh.vn/uploads/g-skill-sniper-8gb2x4gbddr3-1600mhz-f3-12800cl9d-8gbsr.jpg" alt="" width="150px" height="150px"></span>
+											<span class="text">RAM - Bộ nhớ trong</span>
+										</a>
+									</li>
+									<li>
+										<a href="" class="demo">
+											<span class="img"><img src="http://xuanvinh.vn/uploads/msi-geforce_gtx_1080_gaming_x_8_g-product_pictures-3d7.jpg" alt="" width="150px" height="150px"></span>
+											<span class="text">VGA - Card màn hình</span>
+										</a>
+									</li>
+									<li>
+										<a href="" class="demo">
+											<span class="img"><img src="http://xuanvinh.vn/uploads/480gb.jpg" alt="" width="150px" height="150px"></span>
+											<span class="text">Ổ thể rắn SSD</span>
+										</a>
+									</li>
+									<li>
+										<a href="" class="demo">
+											<span class="img"><img src="http://xuanvinh.vn/uploads/xg27vq-1.jpg" alt="" width="150px" height="150px"></span>
+											<span class="text">Màn hình</span>
+										</a>
+									</li>
+									<li>
+										<a href="" class="demo">
+											<span class="img"><img src="https://digitrends.com.vn/wp-content/uploads/2018/12/ban-phim-co-logitech-g-pro-gaming-rgb-romer-g.jpg" alt="" width="150px" height="150px"></span>
+											<span class="text">Bàn phím</span>
+										</a>
+									</li>
+									<li>
+										<a href="" class="demo">
+											<span class="img"><img src="http://xuanvinh.vn/uploads/g420.jpg" alt="" width="150px" height="150px"></span>
+											<span class="text">Mouse - Chuột máy tính</span>
+										</a>
+									</li>
+									<li>
+										<a href="" class="demo">
+											<span class="img"><img src="http://xuanvinh.vn/uploads/TITAN_BLACK.JPG" alt="" width="150px" height="150px"></span>
+											<span class="text">Case - Vỏ máy tính</span>
+										</a>
+									</li>
+									<li>
+										<a href="" class="demo">
+											<span class="img"><img src="http://xuanvinh.vn/uploads/f8363aa5f6d3441299f93f7e1064f544.jpg" alt="" width="150px" height="150px"></span>
+											<span class="text">Tản nhiệt</span>
+										</a>
+									</li>
+								</ul>
+							</li>
+							<li class="list-group-item product"><a href="">Máy tính xách tay</a>
+								<ul class="detailproduct">
+					<li>
+						<a href="" class="demo">
+							<span class="img"><img src="image/lap-4.png" alt="" width="130px" height="130px"></span>
+							<span class="text">ASUS Gaming</span>
+						</a>
+					</li>
+					<li>
+						<a href="" class="demo">
+							<span class="img"><img src="image/lap -1.png" alt="" width="130px" height="130px"></span>
+							<span class="text">Acer Gaming</span>
+						</a>
+					</li>
+					<li>
+						<a href="" class="demo">
+							<span class="img"><img src="image/lap -2.png" alt="" width="150px" height="150px"></span>
+							<span class="text">Laptop Đồ họa</span>
+						</a>
+					</li>
+					<li>
+						<a href="" class="demo">
+							<span class="img"><img src="image/lap -3.png" alt="" width="150px" height="150px"></span>
+							<span class="text">Acer Gaming Nitro5</span>
+						</a>
+					</li>
+					<li>
+						<a href="" class="demo">
+							<span class="img"><img src="image/lap-5.png" alt="" width="150px" height="150px"></span>
+							<span class="text">Microsoft Surface</span>
+						</a>
+					</li>
+					<li>
+						<a href="" class="demo">
+							<span class="img"><img src="image/lap-6.png" alt="" width="150px" height="150px"></span>
+							<span class="text">Acer Gaming Aspire</span>
+						</a>
+					</li>
+					<li>
+						<a href="" class="demo">
+							<span class="img"><img src="image/lap-7.png" alt="" width="150px" height="150px"></span>
+							<span class="text">Asus Gaming TUF</span>
+						</a>
+					</li>
+				</ul>
+							</li>
+							<li class="list-group-item product">
+								<a href="">PC văn phòng </a>
+							</li>
+							<li class="list-group-item product">
+								<a href="">Thiết bị ngoại vi </a>
+							</li>
+							<li class="list-group-item product">
+								<a href="">Thiết bị văn phòng  </a>
+							</li>
+							<li class="list-group-item product">
+								<a href="">Thiết bị lưu trữ </a>
+							</li>
+							<li class="list-group-item product">
+								<a href="">Phần mềm và phụ kiện</a>
+							</li>
+						</ul>
+					</div>	
+				</div>
+	</div>
+	<div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 breadcrumb-content">
+		<div class="icon-home">
+			<i class="fas fa-home"></i>
+		</div>
+		<ul class="breadcrumb-detail">
+			<li>
+				<a href="">Trang chủ</a>
+				<i class="fas fa-angle-double-right"></i>
+			</li>
+			<li>
+				<a href="">Linh kiện máy tính</a>
+				<i class="fas fa-angle-double-right"></i>
+			</li>
+			<li>
+				<a href="">Màn hình</a>
+				<i class="fas fa-angle-double-right"></i>
+			</li>
+			<li>
+				<a href=""> Màn Hình Game ASUS ROG 2K 144Hz Aura</a>
+			</li>
+		</ul>
+	</div> <!-- end breadcrumb -->
+	</div> <!-- end left -->
+</div><!--  end heading -->
+
+<div class="container body-content">
+	<div class="row top">
+		<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5">
+			<div class="imgBox ">
+				<img src="https://hanoicomputercdn.com/media/product/60020_acer_frame.jpg" alt="" width="200px" height="400px">
+			</div>
+
+<!-- ZOOM -->
+			<!-- <div class="zoom" style="background:url(http://xuanvinh.vn/uploads/XG32VQ_Thumb.png)" onmousemove="zoom(event)" ontouchmove="zoom(event)">
+					<img src="http://xuanvinh.vn/uploads/XG32VQ_Thumb.png" />
+			</div> --> 
+
+			<ul class="thumb">
+				<li>
+					<a href="https://hanoicomputercdn.com/media/product/60020_laptop_acer_gaming_nitro_5_eagle_an515_57_16.png" target="imgBox">
+						<img src="https://hanoicomputercdn.com/media/product/60020_laptop_acer_gaming_nitro_5_eagle_an515_57_16.png" width="80px"></a>
+				</li>
+				<li>
+					<a href="https://hanoicomputercdn.com/media/product/60020_laptop_acer_gaming_nitro_5_eagle_an515_57_15.png" target="imgBox">
+						<img src="https://hanoicomputercdn.com/media/product/60020_laptop_acer_gaming_nitro_5_eagle_an515_57_15.png" width="80px"></a>
+				</li>
+				<li>
+					<a href="https://hanoicomputercdn.com/media/product/60020_laptop_acer_gaming_nitro_5_eagle_an515_57_14.png" target="imgBox">
+						<img src="https://hanoicomputercdn.com/media/product/60020_laptop_acer_gaming_nitro_5_eagle_an515_57_14.png" width="80px"></a>
+				</li>
+				<li>
+					<a href="image/lap -1.png" target="imgBox">
+						<img src="image/lap -1.png" width="80px"></a>
+				</li>
+			</ul>
+		</div> <!-- end left -->
+		<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7">
+			<div class="product-detail-right">
+				<h3>Laptop Acer Gaming Nitro 5 Eagle AN515-57-74NU (NH.QD9SV.001) (i7 11800H/8GB Ram/ 512GB SSD/RTX3050Ti 4G/15.6 inch FHD 144Hz/Win 10/Đen)</h3>
+				<h4>54.900.000 đ</h4>
+				<hr>
+				<div class="product-right-content">
+					<h5>THÔNG TIN SẢN PHẨM</h5>
+					<p>- CPU: Intel Core i7-1165G7</p>
+					<p>- Màn hình: 17" IPS (2560 x 1600)</p>
+					<p>- RAM: 16GB DDR4 4266MHz</p>
+					<p>- Đồ họa: Intel Iris Xe Graphics</p>
+					<p>- Lưu trữ: 1TB SSD M.2 NVMe /</p>
+					<p>- Hệ điều hành: Windows 10 Home 64-bit</p>
+					<p>- 80 Wh Pin liền</p>
+					<p>- Khối lượng: 1.35 kg</p>
+				</div>
+				<div class="content-btn">
+					<a href="" class="btn-content">
+						<span class="">Mô tả chi tiết</span>
+						<i class="fas fa-angle-down"></i>
+					</a>
+				</div>	
+				<div class="product-btn">
+					<a href="../buy-now/index.html" class="btn-buy">MUA NGAY</a>
+					<a href="../cart/index.html" class="btn-add-cart">THÊM VÀO GIỎ HÀNG</a>
+				</div>
+				<!-- <div class="khuyenmai">
+                     <img src="image/khuyenmai.PNG" alt="" width="400" height="150">
+				</div> -->
+			</div>		
+		</div> <!-- end right -->
+	</div> <!-- end row-1 -->
+
+	<div class="row mid">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+			<div class="home-box">
+				<h2 class="box-title">
+					<span>SẢN PHẨM LIÊN QUAN</span>
+				</h2>
+			</div>
+		</div>
+		<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 motsp">
+			<div class="khoisp">
+				<div class="anh">
+					<a href="#"><img src="image/lap -1.png" alt="" class="layer1"></a>
+					<a href="#"><img src="https://lh3.googleusercontent.com/eqCiZzPNKuWeIJp3Y6Xw7y9tgaGG8EXeSO9lbP9PgMr6a7bICuCQ4z-xLoTJdZEbrOz9nC8hDMyj9VwtsC5Q=w500-rw" alt="" class="layer2"></a>
+				</div>
+				<div class="tieude">
+					<a href="">Laptop Acer Gaming Nitro5 Eagle AN515-57-74NU</a>
+				</div>
+				<div class="tren" style="text-decoration: line-through;">
+						27,799,000 đ
+				</div>
+				<div class="duoi">
+					<div class="trai">
+						<div class="lop1">28,990,000 đ</div>
+						<div class="lop2"><a href=""><i class="fa fa-shopping-cart"></i>Thêm vào giỏ </a></div>
+					</div>
+				</div>
+			</div>
+		</div><!-- </div> end 1 product -->
+		<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 motsp">
+			<div class="khoisp">
+				<div class="anh">
+					<img src="image/lap -2.png" alt="" class="layer1" >
+					<img src="https://hanoicomputercdn.com/media/product/56765_conceptd_3_ezel__13_.png" alt="" class="layer2" >
+				</div>
+				<div class="tieude">
+					<a href="">Laptop Đồ họa ConceptD3 Ezel Pro</a>
+				</div>
+				<div class="tren" style="text-decoration: line-through;">
+						51,000,000 đ
+				</div>
+				<div class="duoi">
+					<div class="trai">
+						<div class="lop1">52,000,000 đ</div>
+						<div class="lop2"><a href=""><i class="fa fa-shopping-cart"></i>Thêm vào giỏ </a></div>
+					</div>
+				</div>
+			</div>
+		</div><!--  end 1 product -->
+		<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 motsp">
+			<div class="khoisp">
+				<div class="anh">
+					<img src="image/lap -3.png" alt="" class="layer1" >
+					<img src="https://lh3.googleusercontent.com/tbzbpKjMrE0NmOeDfLZtcriqZWbJIeSR2KfGuD5uGMEwCAQg1-k0Py8kMIeJUNwmDR88A4OixFoda-hDafZBFr6Iti5LzJxUuA=w500-rw" alt="" class="layer2" >
+				</div>
+				<div class="tieude">
+					<a href="">Laptop Acer Gaming Nitro5 AN515-56-51N4 (NH.QBZSV.002)</a>
+				</div>
+				<div class="tren" style="text-decoration: line-through;">
+						21,599,000 đ
+				</div>
+				<div class="duoi">
+					<div class="trai">
+						<div class="lop1">23,599,000 đ</div>
+						<div class="lop2"><a href=""><i class="fa fa-shopping-cart"></i>Thêm vào giỏ</a></div>
+					</div>
+				</div>
+			</div>
+		</div><!--end 1 product -->
+		<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 motsp">
+			<div class="khoisp">
+				<div class="anh">
+					<img src="http://xuanvinh.vn/uploads/XG32VQ_Thumb.png" alt="" class="layer1" >
+					<img src="http://xuanvinh.vn/uploads/ASUS-ROG-Strix-XG32VQ.jpg" alt="" class="layer2" >
+				</div>
+				<div class="tieude">
+					<a href="">GALA GTX 1660 6GB GDR5 DUAL FAN OC</a>
+				</div>
+				<div class="tren" style="text-decoration: line-through;">
+						15,990,000 đ
+				</div>
+				<div class="duoi">
+					<div class="trai">
+						<div class="lop1">14,990,000 đ</div>
+						<div class="lop2"><a href=""><i class="fa fa-shopping-cart"></i>Thêm vào giỏ</a></div>
+					</div>
+				</div>
+			</div>
+		</div><!-- end 1 product -->
+		<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 motsp">
+			<div class="khoisp">
+				<div class="anh">
+					<img src="http://xuanvinh.vn/uploads/1_a0d81ef458a64512bd8ec103dd162e21_master.jpg" alt="" class="layer1">
+					<img src="http://xuanvinh.vn/uploads/7082b143316a172f9d92e3f41a4aed92-1200x900.jpg" alt="" class="layer2">
+				</div>
+				<div class="tieude">
+					<a href="">MSI GTX 1660 6GB GDDR5 GAMING X</a>
+				</div>
+				<div class="tren" style="text-decoration: line-through;">
+					9.799.000 đ
+				</div>
+				<div class="duoi">
+					<div class="trai">
+						<div class="lop1">11,990,000 đ</div>
+						<div class="lop2"><a href=""><i class="fa fa-shopping-cart"></i>Thêm vào giỏ</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--  end 1 product -->
+		<div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 motsp">
+			<div class="khoisp">
+				<div class="anh">
+					<img src="image/lap-4.png" alt="" class="layer1" >
+					<img src="https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/1000x/040ec09b1e35df139433887a97daa66f/l/a/laptop-asus-tuf-gaming-a17-fa706iu_2_.jpg" alt="" class="layer2" >
+				</div>
+				<div class="tieude">
+					<a href="">Laptop Asus Gaming TUF FA706IU-H7133T</a>
+				</div>
+				<div class="tren" style="text-decoration: line-through;">
+						25,999,000 đ
+				</div>
+				<div class="duoi">
+					<div class="trai">
+						<div class="lop1">28,199,000 đ</div>
+						<div class="lop2"><a href=""><i class="fa fa-shopping-cart"></i>Thêm vào giỏ </a></div>
+					</div>
+				</div>
+			</div>
+		</div><!-- end 1 product -->
+	</div> <!-- end row sp lien quan -->
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+			<div class="home-box">
+				<h2 class="box-title detail">
+					<span>MÔ TẢ CHI TIẾT </span>
+				</h2>
+			</div>
+		</div> <!-- end tieu de -->
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+			<div class="tab">
+				<table>
+					<tbody>
+						<tr>
+							<td><span>Thời gian Bảo hành</span></td>
+							<td><span>36</span></td>
+						</tr>
+						<tr>
+							<td><span>Thương hiệu</span></td>
+							<td><span>ASUS</span></td>
+						</tr>
+						<tr>
+							<td><span>Độ phân giải</span></td>
+							<td><span>1920 x 1080 ( 16:9 )</span></td>
+						</tr>
+						<tr>
+							<td><span>Kích thước</span></td>
+							<td><span>27"</span></td>
+						</tr>
+						<tr>
+							<td><span>Công nghệ đồng bộ</span></td>
+							<td><span>FreeSync ; G-Sync compatible</span></td>
+						</tr>
+						<tr>
+							<td><span>Khả năng hiển thị màu</span></td>
+							<td><span>16.7 triệu màu</span></td>
+						</tr>
+						<tr>
+							<td><span>Bề mặt</span></td>
+							<td><span>Màn hình chống lóa</span></td>
+						</tr>
+						<tr>
+							<td><span>Cổng xuất hình</span></td>
+							<td><span>1 x HDMI 1.4 , 1 x DisplayPort 1.2 , 1 x DVI-D</span></td>
+						</tr>
+						<tr>
+							<td><span>Khối lượng</span></td>
+							<td><span>9.95 kg</span></td>
+						</tr>
+						<tr>
+							<td><span>Phụ kiện đi kèm</span></td>
+							<td><span>Cáp HDMI, Displayport</span></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div> <!-- end row mô tả chi tiết -->
+	<div class="row danhgia">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+			<div class="home-box">
+				<h2 class="box-title">
+					<span>ĐÁNH GIÁ SẢN PHẨM </span>
+				</h2>
+			</div>
+		</div> <!-- end tieu de -->
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 rating text-center">
+					<div class="rating-point">
+						<div class="rating-average">
+							4.8/5
+							<i class="fas fa-star star"></i>
+						</div>
+						<div class="rating-amount">15 bình chọn</div>
+					</div><!--  end left -->
+					<div class="rating-statistic">
+						<div class="item-rate">
+							<span class="rating-num">
+								5
+								<i class="fas fa-star"></i>
+							</span>
+							<span class="rating-bar">
+								<span class="stastatistic" style="width: 70%"></span>
+							</span>
+							<span class="statistic-number">9</span>
+						</div>
+
+						<div class="item-rate">
+							<span class="rating-num">
+								4
+								<i class="fas fa-star"></i>
+							</span>
+							<span class="rating-bar">
+								<span class="stastatistic" style="width: 50%"></span>
+							</span>
+							<span class="statistic-number">5</span>
+						</div>
+
+						<div class="item-rate">
+							<span class="rating-num">
+								3
+								<i class="fas fa-star"></i>
+							</span>
+							<span class="rating-bar">
+								<span class="stastatistic" style="width: 45%"></span>
+							</span>
+							<span class="statistic-number">5</span>
+						</div>
+
+						<div class="item-rate">
+							<span class="rating-num">
+								2
+								<i class="fas fa-star"></i>
+							</span>
+							<span class="rating-bar">
+								<span class="stastatistic" style="width: 10%"></span>
+							</span>
+							<span class="statistic-number">5</span>
+						</div>
+
+						<div class="item-rate">
+							<span class="rating-num">
+								1
+								<i class="fas fa-star"></i>
+							</span>
+							<span class="rating-bar">
+								<span class="stastatistic" style="width: 0%"></span>
+							</span>
+							<span class="statistic-number">5</span>
+						</div>
+					</div> <!-- end right -->
+				</div> <!-- end thong tin đánh giá -->
+
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-center">
+					<div class="review-form">
+						<div class="review">
+							<div class="nd">Đánh giá của bạn</div>
+							<div class="rating">
+								<input type="radio" name="star" id="star1">
+								<label for="star1"></label>
+								<input type="radio" name="star" id="star2">
+								<label for="star2"></label>
+								<input type="radio" name="star" id="star3">
+								<label for="star3"></label>
+								<input type="radio" name="star" id="star4">
+								<label for="star4"></label>
+								<input type="radio" name="star" id="star5">
+								<label for="star5"></label>
+							</div>
+						</div>
+						<div class="review">
+							<div class="nd">Tiêu đề đánh giá</div>
+							<div class="review-input">
+								<input type="text" placeholder="Nhập tiêu đề đánh giá">
+							</div>
+						</div>
+						<div class="review">
+							<div class="nd">Nội dung đánh giá</div>
+							<div class="review-text-area">
+								<textarea placeholder="Đánh giá của bạn về sản phẩm" rows="4"></textarea>	
+							</div>
+						</div>
+					</div>
+				</div><!-- end nhập đánh giá -->
+			</div> <!-- end row nd đánh giá -->
+		</div> <!-- end nd đánh giá -->
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+			<div class="comment">
+				<div class="comment-left">
+					<div class="avatar">
+						<i class="fas fa-user-circle"></i>
+					</div>
+				</div>
+				<div class="comment-right">
+					<p class="user-name">Trần Thanh Tùng</p>
+					<div class="review-title">
+						<div class="review-title-rating">
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+						</div>
+						<span class="">Màn hình cực nét</span>
+					</div>
+					<p>Hàng hịn, bảo hành điện tử, đóng gói cẩn thận, bọc xốp ngoài vỏ chống sock, kèm hộp hóa đơn.</p>
+				</div>
+			</div>	
+			<div class="comment">
+				<div class="comment-left">
+					<div class="avatar">
+						<i class="fas fa-user-circle"></i>
+					</div>
+				</div>
+				<div class="comment-right">
+					<p class="user-name">Trần Thanh Tùng</p>
+					<div class="review-title">
+						<div class="review-title-rating">
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+						</div>
+						<span class="">Màn hình cực nét</span>
+					</div>
+					<p>Hàng hịn, bảo hành điện tử, đóng gói cẩn thận, bọc xốp ngoài vỏ chống sock, kèm hộp hóa đơn.</p>
+				</div>
+			</div>
+			<div class="comment">
+				<div class="comment-left">
+					<div class="avatar">
+						<i class="fas fa-user-circle"></i>
+					</div>
+				</div>
+				<div class="comment-right">
+					<p class="user-name">Trần Thanh Tùng</p>
+					<div class="review-title">
+						<div class="review-title-rating">
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+							<i class="fas fa-star"></i>
+						</div>
+						<span class="">Màn hình cực nét</span>
+					</div>
+					<p>Hàng hịn, bảo hành điện tử, đóng gói cẩn thận, bọc xốp ngoài vỏ chống sock, kèm hộp hóa đơn.</p>
+				</div>
+			</div>
+		</div>
+	</div> <!-- end row đánh giá -->
+
+</div> <!-- end container body -->
+
+<footer>
+	<div class="footer1">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 text-center">
+					<h3>ĐỊA CHỈ</h3>
+					<p>......Đà Nẵng</p>
+					<br>
+					<p>01234568</p>
+				</div>
+				<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 text-center contact1">
+					<h3>DỊCH VỤ KHÁCH HÀNG</h3>
+					<ul>
+						<li><a href="">Tài khoản thanh toán</a></li>
+						<li><a href="">Hướng dẫn mua hàng</a></li>
+						<li><a href="">Giới thiệu về chúng tôi</a></li>
+						<li><a href="">Lưu ý khi đặt hàng online</a></li>
+					</ul>
+				</div>
+				<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 text-center contact1">
+					<h3>ĐIỀU KHOẢN MUA BÁN</h3>
+					<ul>
+						<li><a href="">Điều khoản bảo mật</a></li>
+						<li><a href="">Hình thức giao hàng</a></li>
+						<li><a href="">Hình thức thanh toán</a></li>
+						<li><a href="">Hoãn hủy thay đổi sản phẩm</a></li>
+					</ul>
+				</div>
+				<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 text-center contact2">
+					<h3>HỖ TRỢ MUA BÁN</h3>
+					<ul>
+						<li><a href="" class="fab fa-facebook-f"></a></li>
+						<li><a href="" class="fab fa-google-plus-g"></a></li>
+						<li><a href="" class="fab fa-twitter"></a></li>
+						<li><a href="" class="fab fa-linkedin-in"></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer2">
+		<div class="container text-center">
+			<p>Copyright © Your Website 2018</p>
+		</div>
+	</div>
+</footer>
+
+<div class='lentop'>
+	<div>
+		<img src='https://1.bp.blogspot.com/-k6sikOdzFXQ/VwqCKDosmEI/AAAAAAAAKxE/nLxLhkTIO6o3iE5ZWmtxo2bf4QHdzPQNQ/s1600/top.png'/>
+	</div>
+</div>
+
+</body>
+</html>
